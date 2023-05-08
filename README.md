@@ -1,0 +1,1 @@
+### API fro Gadgets store
