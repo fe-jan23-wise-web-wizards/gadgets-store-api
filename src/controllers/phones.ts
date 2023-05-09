@@ -4,7 +4,7 @@ import { SortBy } from '../types/SortBy';
 
 export const getPhones = async (req: Request, res: Response) => {
   const {
-    page = 0,
+    page = 1,
     limit = 16,
     sort = SortBy.Default,
   } = req.query;
