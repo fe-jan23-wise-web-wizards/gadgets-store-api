@@ -1,7 +1,7 @@
 import * as dotenv from 'dotenv';
-dotenv.config();
-
 import { app } from './api';
+
+dotenv.config();
 
 const port = Number(process.env.PORT) || 3333;
 
