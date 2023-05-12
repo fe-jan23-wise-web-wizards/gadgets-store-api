@@ -1005,7 +1005,7 @@
     "color": "midnight",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/midnight/00.jpg"
+    "image": "img/phones/apple-iphone-14/midnight/00.png"
   },
   {
     "id": 73,
@@ -1019,7 +1019,7 @@
     "color": "midnight",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/midnight/00.jpg"
+    "image": "img/phones/apple-iphone-14/midnight/00.png"
   },
   {
     "id": 74,
@@ -1033,7 +1033,7 @@
     "color": "midnight",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/midnight/00.jpg"
+    "image": "img/phones/apple-iphone-14/midnight/00.png"
   },
   {
     "id": 75,
@@ -1047,7 +1047,7 @@
     "color": "yellow",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/yellow/00.jpg"
+    "image": "img/phones/apple-iphone-14/yellow/00.png"
   },
   {
     "id": 76,
@@ -1061,7 +1061,7 @@
     "color": "yellow",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/yellow/00.jpg"
+    "image": "img/phones/apple-iphone-14/yellow/00.png"
   },
   {
     "id": 77,
@@ -1075,7 +1075,7 @@
     "color": "yellow",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/yellow/00.jpg"
+    "image": "img/phones/apple-iphone-14/yellow/00.png"
   },
   {
     "id": 78,
@@ -1089,7 +1089,7 @@
     "color": "purple",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/purple/00.jpg"
+    "image": "img/phones/apple-iphone-14/purple/00.png"
   },
   {
     "id": 79,
@@ -1103,7 +1103,7 @@
     "color": "purple",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/purple/00.jpg"
+    "image": "img/phones/apple-iphone-14/purple/00.png"
   },
   {
     "id": 80,
@@ -1117,7 +1117,7 @@
     "color": "purple",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14/purple/00.jpg"
+    "image": "img/phones/apple-iphone-14/purple/00.png"
   },
   {
     "id": 81,
@@ -1131,7 +1131,7 @@
     "color": "spaceblack",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.jpg"
+    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.png"
   },
   {
     "id": 82,
@@ -1145,7 +1145,7 @@
     "color": "spaceblack",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.jpg"
+    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.png"
   },
   {
     "id": 83,
@@ -1159,7 +1159,7 @@
     "color": "spaceblack",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.jpg"
+    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.png"
   },
   {
     "id": 84,
@@ -1173,6 +1173,6 @@
     "color": "spaceblack",
     "ram": "6GB",
     "year": 2022,
-    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.jpg"
+    "image": "img/phones/apple-iphone-14-pro/spaceblack/00.png"
   }
 ]
