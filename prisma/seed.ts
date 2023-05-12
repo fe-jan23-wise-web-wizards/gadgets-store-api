@@ -12,12 +12,12 @@ async function main() {
     const product = await prisma.product.create({
       data: p,
     });
-    console.log(`Created product with id: ${product.id}`);
+    console.log(`Created product with id: ${product.itemId}`);
   }
 
-  for (const p of phonesData) {
+  for (const phoneDetails of phonesData) {
     const phone = await prisma.phone.create({
-      data: p,
+      data: phoneDetails,
     });
     console.log(`Created phone with id: ${phone.id}`);
   }
