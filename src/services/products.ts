@@ -9,6 +9,11 @@ export const getAll = (
   category: Category,
 ) => {
   const orderBy = {};
+  const where = {};
+
+  if (category !== Category.ALL) {
+    Object.assign(where, { category: category });
+  }
 
   switch (sort) {
     case SortBy.PriceLowest:
@@ -30,14 +35,10 @@ export const getAll = (
   }
 
   const phones = prisma.product.findMany({
-    where: {
-      category: category,
-    },
+    where: where,
     skip: (page - 1) * limit,
     take: limit,
-    orderBy: {
-      ...orderBy,
-    },
+    orderBy: orderBy,
   });
 
   return phones;
