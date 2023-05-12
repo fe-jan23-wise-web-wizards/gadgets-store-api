@@ -1,9 +1,46 @@
 import { prisma } from '../database/prisma';
+import { Category } from '../types/Category';
+import { SortBy } from '../types/SortBy';
 
-export const getAll = (limit: number) => {
-  return prisma.product.findMany({
+export const getAll = (
+  page: number,
+  limit: number,
+  sort: SortBy,
+  category: Category,
+) => {
+  const orderBy = {};
+
+  switch (sort) {
+    case SortBy.PriceLowest:
+      Object.assign(orderBy, { price: 'asc' });
+      break;
+    case SortBy.PriceHighest:
+      Object.assign(orderBy, { price: 'desc' });
+      break;
+    case SortBy.Newest:
+      Object.assign(orderBy, { year: 'desc' });
+      break;
+    case SortBy.Oldest:
+      Object.assign(orderBy, { year: 'asc' });
+      break;
+    case SortBy.Default:
+    default:
+      Object.assign(orderBy, { name: 'desc' });
+      break;
+  }
+
+  const phones = prisma.product.findMany({
+    where: {
+      category: category,
+    },
+    skip: (page - 1) * limit,
     take: limit,
+    orderBy: {
+      ...orderBy,
+    },
   });
+
+  return phones;
 };
 
 export const getNew = (limit: number) => {
@@ -29,4 +66,27 @@ export const getWithDiscount = async (limit: number) => {
   });
 
   return products.slice(0, limit);
+};
+
+export const getRecommended = async (id: string) => {
+  const productsCount = await prisma.product.count();
+  const skip = Math.floor(Math.random() * productsCount);
+
+  return prisma.product.findMany({
+    where: {
+      NOT: {
+        itemId: id,
+      }
+    },
+    take: 12,
+    skip: skip,
+  });
+};
+
+export const getById = (id: string) => {
+  return prisma.product.findUnique({
+    where: {
+      itemId: id,
+    },
+  });
 };
