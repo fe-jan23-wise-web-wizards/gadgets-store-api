@@ -1,5 +1,7 @@
 import { Request, Response } from 'express';
+import { getAccessoryById } from '../services/accessories';
 import { getPhoneById } from '../services/phones';
+import { getTabletById } from '../services/tablets';
 import {
   getAll,
   getById,
@@ -100,14 +102,37 @@ export const getProductById = async (req: Request, res: Response) => {
   }
 
   const product = await getById(id);
+
+  res.send(product);
+};
+
+export const getProductDetailsById = async (req: Request, res: Response) => {
+  const { id } = req.params;
+
+  if (!id) {
+    res.sendStatus(400);
+
+    return;
+  }
+
+  const product = await getById(id);
   let productDetails;
 
   if (product) {
     switch (product.category as Category) {
+      case Category.TABLETS:
+        productDetails = await getTabletById(id);
+        break;
+      case Category.ACCESSORIES:
+        productDetails = await getAccessoryById(id);
+        break;
       case Category.PHONES:
         productDetails = await getPhoneById(id);
         break;
       default:
+        res.sendStatus(404);
+
+        return;
     }
   }
 

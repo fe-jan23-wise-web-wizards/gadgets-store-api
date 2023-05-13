@@ -10,11 +10,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "black",
     "images": [
-      "img/phones/apple-iphone-11/black/00.png",
-      "img/phones/apple-iphone-11/black/01.png",
-      "img/phones/apple-iphone-11/black/02.png",
-      "img/phones/apple-iphone-11/black/03.png",
-      "img/phones/apple-iphone-11/black/04.png"
+      "img/phones/apple-iphone-11/black/00.webp",
+      "img/phones/apple-iphone-11/black/01.webp",
+      "img/phones/apple-iphone-11/black/02.webp",
+      "img/phones/apple-iphone-11/black/03.webp",
+      "img/phones/apple-iphone-11/black/04.webp"
     ],
     "description": [
       {
@@ -57,11 +57,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "green",
     "images": [
-      "img/phones/apple-iphone-11/green/00.png",
-      "img/phones/apple-iphone-11/green/01.png",
-      "img/phones/apple-iphone-11/green/02.png",
-      "img/phones/apple-iphone-11/green/03.png",
-      "img/phones/apple-iphone-11/green/04.png"
+      "img/phones/apple-iphone-11/green/00.webp",
+      "img/phones/apple-iphone-11/green/01.webp",
+      "img/phones/apple-iphone-11/green/02.webp",
+      "img/phones/apple-iphone-11/green/03.webp",
+      "img/phones/apple-iphone-11/green/04.webp"
     ],
     "description": [
       {
@@ -104,11 +104,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-11/purple/00.png",
-      "img/phones/apple-iphone-11/purple/01.png",
-      "img/phones/apple-iphone-11/purple/02.png",
-      "img/phones/apple-iphone-11/purple/03.png",
-      "img/phones/apple-iphone-11/purple/04.png"
+      "img/phones/apple-iphone-11/purple/00.webp",
+      "img/phones/apple-iphone-11/purple/01.webp",
+      "img/phones/apple-iphone-11/purple/02.webp",
+      "img/phones/apple-iphone-11/purple/03.webp",
+      "img/phones/apple-iphone-11/purple/04.webp"
     ],
     "description": [
       {
@@ -151,11 +151,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "red",
     "images": [
-      "img/phones/apple-iphone-11/red/00.png",
-      "img/phones/apple-iphone-11/red/01.png",
-      "img/phones/apple-iphone-11/red/02.png",
-      "img/phones/apple-iphone-11/red/03.png",
-      "img/phones/apple-iphone-11/red/04.png"
+      "img/phones/apple-iphone-11/red/00.webp",
+      "img/phones/apple-iphone-11/red/01.webp",
+      "img/phones/apple-iphone-11/red/02.webp",
+      "img/phones/apple-iphone-11/red/03.webp",
+      "img/phones/apple-iphone-11/red/04.webp"
     ],
     "description": [
       {
@@ -198,11 +198,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "white",
     "images": [
-      "img/phones/apple-iphone-11/white/00.png",
-      "img/phones/apple-iphone-11/white/01.png",
-      "img/phones/apple-iphone-11/white/02.png",
-      "img/phones/apple-iphone-11/white/03.png",
-      "img/phones/apple-iphone-11/white/04.png"
+      "img/phones/apple-iphone-11/white/00.webp",
+      "img/phones/apple-iphone-11/white/01.webp",
+      "img/phones/apple-iphone-11/white/02.webp",
+      "img/phones/apple-iphone-11/white/03.webp",
+      "img/phones/apple-iphone-11/white/04.webp"
     ],
     "description": [
       {
@@ -245,11 +245,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-11/yellow/00.png",
-      "img/phones/apple-iphone-11/yellow/01.png",
-      "img/phones/apple-iphone-11/yellow/02.png",
-      "img/phones/apple-iphone-11/yellow/03.png",
-      "img/phones/apple-iphone-11/yellow/04.png"
+      "img/phones/apple-iphone-11/yellow/00.webp",
+      "img/phones/apple-iphone-11/yellow/01.webp",
+      "img/phones/apple-iphone-11/yellow/02.webp",
+      "img/phones/apple-iphone-11/yellow/03.webp",
+      "img/phones/apple-iphone-11/yellow/04.webp"
     ],
     "description": [
       {
@@ -292,11 +292,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "black",
     "images": [
-      "img/phones/apple-iphone-11/black/00.png",
-      "img/phones/apple-iphone-11/black/01.png",
-      "img/phones/apple-iphone-11/black/02.png",
-      "img/phones/apple-iphone-11/black/03.png",
-      "img/phones/apple-iphone-11/black/04.png"
+      "img/phones/apple-iphone-11/black/00.webp",
+      "img/phones/apple-iphone-11/black/01.webp",
+      "img/phones/apple-iphone-11/black/02.webp",
+      "img/phones/apple-iphone-11/black/03.webp",
+      "img/phones/apple-iphone-11/black/04.webp"
     ],
     "description": [
       {
@@ -339,11 +339,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "green",
     "images": [
-      "img/phones/apple-iphone-11/green/00.png",
-      "img/phones/apple-iphone-11/green/01.png",
-      "img/phones/apple-iphone-11/green/02.png",
-      "img/phones/apple-iphone-11/green/03.png",
-      "img/phones/apple-iphone-11/green/04.png"
+      "img/phones/apple-iphone-11/green/00.webp",
+      "img/phones/apple-iphone-11/green/01.webp",
+      "img/phones/apple-iphone-11/green/02.webp",
+      "img/phones/apple-iphone-11/green/03.webp",
+      "img/phones/apple-iphone-11/green/04.webp"
     ],
     "description": [
       {
@@ -386,11 +386,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-11/purple/00.png",
-      "img/phones/apple-iphone-11/purple/01.png",
-      "img/phones/apple-iphone-11/purple/02.png",
-      "img/phones/apple-iphone-11/purple/03.png",
-      "img/phones/apple-iphone-11/purple/04.png"
+      "img/phones/apple-iphone-11/purple/00.webp",
+      "img/phones/apple-iphone-11/purple/01.webp",
+      "img/phones/apple-iphone-11/purple/02.webp",
+      "img/phones/apple-iphone-11/purple/03.webp",
+      "img/phones/apple-iphone-11/purple/04.webp"
     ],
     "description": [
       {
@@ -433,11 +433,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "red",
     "images": [
-      "img/phones/apple-iphone-11/red/00.png",
-      "img/phones/apple-iphone-11/red/01.png",
-      "img/phones/apple-iphone-11/red/02.png",
-      "img/phones/apple-iphone-11/red/03.png",
-      "img/phones/apple-iphone-11/red/04.png"
+      "img/phones/apple-iphone-11/red/00.webp",
+      "img/phones/apple-iphone-11/red/01.webp",
+      "img/phones/apple-iphone-11/red/02.webp",
+      "img/phones/apple-iphone-11/red/03.webp",
+      "img/phones/apple-iphone-11/red/04.webp"
     ],
     "description": [
       {
@@ -480,11 +480,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "white",
     "images": [
-      "img/phones/apple-iphone-11/white/00.png",
-      "img/phones/apple-iphone-11/white/01.png",
-      "img/phones/apple-iphone-11/white/02.png",
-      "img/phones/apple-iphone-11/white/03.png",
-      "img/phones/apple-iphone-11/white/04.png"
+      "img/phones/apple-iphone-11/white/00.webp",
+      "img/phones/apple-iphone-11/white/01.webp",
+      "img/phones/apple-iphone-11/white/02.webp",
+      "img/phones/apple-iphone-11/white/03.webp",
+      "img/phones/apple-iphone-11/white/04.webp"
     ],
     "description": [
       {
@@ -527,11 +527,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-11/yellow/00.png",
-      "img/phones/apple-iphone-11/yellow/01.png",
-      "img/phones/apple-iphone-11/yellow/02.png",
-      "img/phones/apple-iphone-11/yellow/03.png",
-      "img/phones/apple-iphone-11/yellow/04.png"
+      "img/phones/apple-iphone-11/yellow/00.webp",
+      "img/phones/apple-iphone-11/yellow/01.webp",
+      "img/phones/apple-iphone-11/yellow/02.webp",
+      "img/phones/apple-iphone-11/yellow/03.webp",
+      "img/phones/apple-iphone-11/yellow/04.webp"
     ],
     "description": [
       {
@@ -574,11 +574,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "black",
     "images": [
-      "img/phones/apple-iphone-11/black/00.png",
-      "img/phones/apple-iphone-11/black/01.png",
-      "img/phones/apple-iphone-11/black/02.png",
-      "img/phones/apple-iphone-11/black/03.png",
-      "img/phones/apple-iphone-11/black/04.png"
+      "img/phones/apple-iphone-11/black/00.webp",
+      "img/phones/apple-iphone-11/black/01.webp",
+      "img/phones/apple-iphone-11/black/02.webp",
+      "img/phones/apple-iphone-11/black/03.webp",
+      "img/phones/apple-iphone-11/black/04.webp"
     ],
     "description": [
       {
@@ -621,11 +621,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "green",
     "images": [
-      "img/phones/apple-iphone-11/green/00.png",
-      "img/phones/apple-iphone-11/green/01.png",
-      "img/phones/apple-iphone-11/green/02.png",
-      "img/phones/apple-iphone-11/green/03.png",
-      "img/phones/apple-iphone-11/green/04.png"
+      "img/phones/apple-iphone-11/green/00.webp",
+      "img/phones/apple-iphone-11/green/01.webp",
+      "img/phones/apple-iphone-11/green/02.webp",
+      "img/phones/apple-iphone-11/green/03.webp",
+      "img/phones/apple-iphone-11/green/04.webp"
     ],
     "description": [
       {
@@ -668,11 +668,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-11/purple/00.png",
-      "img/phones/apple-iphone-11/purple/01.png",
-      "img/phones/apple-iphone-11/purple/02.png",
-      "img/phones/apple-iphone-11/purple/03.png",
-      "img/phones/apple-iphone-11/purple/04.png"
+      "img/phones/apple-iphone-11/purple/00.webp",
+      "img/phones/apple-iphone-11/purple/01.webp",
+      "img/phones/apple-iphone-11/purple/02.webp",
+      "img/phones/apple-iphone-11/purple/03.webp",
+      "img/phones/apple-iphone-11/purple/04.webp"
     ],
     "description": [
       {
@@ -715,11 +715,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "red",
     "images": [
-      "img/phones/apple-iphone-11/red/00.png",
-      "img/phones/apple-iphone-11/red/01.png",
-      "img/phones/apple-iphone-11/red/02.png",
-      "img/phones/apple-iphone-11/red/03.png",
-      "img/phones/apple-iphone-11/red/04.png"
+      "img/phones/apple-iphone-11/red/00.webp",
+      "img/phones/apple-iphone-11/red/01.webp",
+      "img/phones/apple-iphone-11/red/02.webp",
+      "img/phones/apple-iphone-11/red/03.webp",
+      "img/phones/apple-iphone-11/red/04.webp"
     ],
     "description": [
       {
@@ -762,11 +762,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "white",
     "images": [
-      "img/phones/apple-iphone-11/white/00.png",
-      "img/phones/apple-iphone-11/white/01.png",
-      "img/phones/apple-iphone-11/white/02.png",
-      "img/phones/apple-iphone-11/white/03.png",
-      "img/phones/apple-iphone-11/white/04.png"
+      "img/phones/apple-iphone-11/white/00.webp",
+      "img/phones/apple-iphone-11/white/01.webp",
+      "img/phones/apple-iphone-11/white/02.webp",
+      "img/phones/apple-iphone-11/white/03.webp",
+      "img/phones/apple-iphone-11/white/04.webp"
     ],
     "description": [
       {
@@ -809,11 +809,11 @@
     "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-11/yellow/00.png",
-      "img/phones/apple-iphone-11/yellow/01.png",
-      "img/phones/apple-iphone-11/yellow/02.png",
-      "img/phones/apple-iphone-11/yellow/03.png",
-      "img/phones/apple-iphone-11/yellow/04.png"
+      "img/phones/apple-iphone-11/yellow/00.webp",
+      "img/phones/apple-iphone-11/yellow/01.webp",
+      "img/phones/apple-iphone-11/yellow/02.webp",
+      "img/phones/apple-iphone-11/yellow/03.webp",
+      "img/phones/apple-iphone-11/yellow/04.webp"
     ],
     "description": [
       {
@@ -856,9 +856,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro/gold/00.png",
-      "img/phones/apple-iphone-11-pro/gold/01.png",
-      "img/phones/apple-iphone-11-pro/gold/02.png"
+      "img/phones/apple-iphone-11-pro/gold/00.webp",
+      "img/phones/apple-iphone-11-pro/gold/01.webp",
+      "img/phones/apple-iphone-11-pro/gold/02.webp"
     ],
     "description": [
       {
@@ -901,10 +901,10 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/02.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/03.png"
+      "img/phones/apple-iphone-11-pro/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/02.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/03.webp"
     ],
     "description": [
       {
@@ -947,9 +947,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro/silver/00.png",
-      "img/phones/apple-iphone-11-pro/silver/01.png",
-      "img/phones/apple-iphone-11-pro/silver/02.png"
+      "img/phones/apple-iphone-11-pro/silver/00.webp",
+      "img/phones/apple-iphone-11-pro/silver/01.webp",
+      "img/phones/apple-iphone-11-pro/silver/02.webp"
     ],
     "description": [
       {
@@ -992,9 +992,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1037,9 +1037,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro/gold/00.png",
-      "img/phones/apple-iphone-11-pro/gold/01.png",
-      "img/phones/apple-iphone-11-pro/gold/02.png"
+      "img/phones/apple-iphone-11-pro/gold/00.webp",
+      "img/phones/apple-iphone-11-pro/gold/01.webp",
+      "img/phones/apple-iphone-11-pro/gold/02.webp"
     ],
     "description": [
       {
@@ -1082,10 +1082,10 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/02.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/03.png"
+      "img/phones/apple-iphone-11-pro/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/02.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/03.webp"
     ],
     "description": [
       {
@@ -1128,9 +1128,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro/silver/00.png",
-      "img/phones/apple-iphone-11-pro/silver/01.png",
-      "img/phones/apple-iphone-11-pro/silver/02.png"
+      "img/phones/apple-iphone-11-pro/silver/00.webp",
+      "img/phones/apple-iphone-11-pro/silver/01.webp",
+      "img/phones/apple-iphone-11-pro/silver/02.webp"
     ],
     "description": [
       {
@@ -1173,9 +1173,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1218,9 +1218,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro/gold/00.png",
-      "img/phones/apple-iphone-11-pro/gold/01.png",
-      "img/phones/apple-iphone-11-pro/gold/02.png"
+      "img/phones/apple-iphone-11-pro/gold/00.webp",
+      "img/phones/apple-iphone-11-pro/gold/01.webp",
+      "img/phones/apple-iphone-11-pro/gold/02.webp"
     ],
     "description": [
       {
@@ -1263,10 +1263,10 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/02.png",
-      "img/phones/apple-iphone-11-pro/midnightgreen/03.png"
+      "img/phones/apple-iphone-11-pro/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/02.webp",
+      "img/phones/apple-iphone-11-pro/midnightgreen/03.webp"
     ],
     "description": [
       {
@@ -1309,9 +1309,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro/silver/00.png",
-      "img/phones/apple-iphone-11-pro/silver/01.png",
-      "img/phones/apple-iphone-11-pro/silver/02.png"
+      "img/phones/apple-iphone-11-pro/silver/00.webp",
+      "img/phones/apple-iphone-11-pro/silver/01.webp",
+      "img/phones/apple-iphone-11-pro/silver/02.webp"
     ],
     "description": [
       {
@@ -1354,9 +1354,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1399,9 +1399,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/gold/00.png",
-      "img/phones/apple-iphone-11-pro-max/gold/01.png",
-      "img/phones/apple-iphone-11-pro-max/gold/02.png"
+      "img/phones/apple-iphone-11-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/02.webp"
     ],
     "description": [
       {
@@ -1444,9 +1444,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.png"
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.webp"
     ],
     "description": [
       {
@@ -1489,9 +1489,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/silver/00.png",
-      "img/phones/apple-iphone-11-pro-max/silver/01.png",
-      "img/phones/apple-iphone-11-pro-max/silver/02.png"
+      "img/phones/apple-iphone-11-pro-max/silver/00.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/01.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/02.webp"
     ],
     "description": [
       {
@@ -1534,9 +1534,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro-max/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1579,9 +1579,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/gold/00.png",
-      "img/phones/apple-iphone-11-pro-max/gold/01.png",
-      "img/phones/apple-iphone-11-pro-max/gold/02.png"
+      "img/phones/apple-iphone-11-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/02.webp"
     ],
     "description": [
       {
@@ -1624,9 +1624,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.png"
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.webp"
     ],
     "description": [
       {
@@ -1669,9 +1669,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/silver/00.png",
-      "img/phones/apple-iphone-11-pro-max/silver/01.png",
-      "img/phones/apple-iphone-11-pro-max/silver/02.png"
+      "img/phones/apple-iphone-11-pro-max/silver/00.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/01.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/02.webp"
     ],
     "description": [
       {
@@ -1714,9 +1714,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro-max/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1759,9 +1759,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/gold/00.png",
-      "img/phones/apple-iphone-11-pro-max/gold/01.png",
-      "img/phones/apple-iphone-11-pro-max/gold/02.png"
+      "img/phones/apple-iphone-11-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-11-pro-max/gold/02.webp"
     ],
     "description": [
       {
@@ -1804,9 +1804,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "midnightgreen",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.png",
-      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.png"
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/00.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/01.webp",
+      "img/phones/apple-iphone-11-pro-max/midnightgreen/02.webp"
     ],
     "description": [
       {
@@ -1849,9 +1849,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/silver/00.png",
-      "img/phones/apple-iphone-11-pro-max/silver/01.png",
-      "img/phones/apple-iphone-11-pro-max/silver/02.png"
+      "img/phones/apple-iphone-11-pro-max/silver/00.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/01.webp",
+      "img/phones/apple-iphone-11-pro-max/silver/02.webp"
     ],
     "description": [
       {
@@ -1894,9 +1894,9 @@
     "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-11-pro-max/spacegray/00.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/01.png",
-      "img/phones/apple-iphone-11-pro-max/spacegray/02.png"
+      "img/phones/apple-iphone-11-pro-max/spacegray/00.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/01.webp",
+      "img/phones/apple-iphone-11-pro-max/spacegray/02.webp"
     ],
     "description": [
       {
@@ -1939,11 +1939,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "black",
     "images": [
-      "img/phones/apple-iphone-7/black/00.png",
-      "img/phones/apple-iphone-7/black/01.png",
-      "img/phones/apple-iphone-7/black/02.png",
-      "img/phones/apple-iphone-7/black/03.png",
-      "img/phones/apple-iphone-7/black/04.png"
+      "img/phones/apple-iphone-7/black/00.webp",
+      "img/phones/apple-iphone-7/black/01.webp",
+      "img/phones/apple-iphone-7/black/02.webp",
+      "img/phones/apple-iphone-7/black/03.webp",
+      "img/phones/apple-iphone-7/black/04.webp"
     ],
     "description": [
       {
@@ -1986,11 +1986,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-7/gold/00.png",
-      "img/phones/apple-iphone-7/gold/01.png",
-      "img/phones/apple-iphone-7/gold/02.png",
-      "img/phones/apple-iphone-7/gold/03.png",
-      "img/phones/apple-iphone-7/gold/04.png"
+      "img/phones/apple-iphone-7/gold/00.webp",
+      "img/phones/apple-iphone-7/gold/01.webp",
+      "img/phones/apple-iphone-7/gold/02.webp",
+      "img/phones/apple-iphone-7/gold/03.webp",
+      "img/phones/apple-iphone-7/gold/04.webp"
     ],
     "description": [
       {
@@ -2033,11 +2033,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "rosegold",
     "images": [
-      "img/phones/apple-iphone-7/rosegold/00.png",
-      "img/phones/apple-iphone-7/rosegold/01.png",
-      "img/phones/apple-iphone-7/rosegold/02.png",
-      "img/phones/apple-iphone-7/rosegold/03.png",
-      "img/phones/apple-iphone-7/rosegold/04.png"
+      "img/phones/apple-iphone-7/rosegold/00.webp",
+      "img/phones/apple-iphone-7/rosegold/01.webp",
+      "img/phones/apple-iphone-7/rosegold/02.webp",
+      "img/phones/apple-iphone-7/rosegold/03.webp",
+      "img/phones/apple-iphone-7/rosegold/04.webp"
     ],
     "description": [
       {
@@ -2080,11 +2080,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-7/silver/00.png",
-      "img/phones/apple-iphone-7/silver/01.png",
-      "img/phones/apple-iphone-7/silver/02.png",
-      "img/phones/apple-iphone-7/silver/03.png",
-      "img/phones/apple-iphone-7/silver/04.png"
+      "img/phones/apple-iphone-7/silver/00.webp",
+      "img/phones/apple-iphone-7/silver/01.webp",
+      "img/phones/apple-iphone-7/silver/02.webp",
+      "img/phones/apple-iphone-7/silver/03.webp",
+      "img/phones/apple-iphone-7/silver/04.webp"
     ],
     "description": [
       {
@@ -2127,11 +2127,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "black",
     "images": [
-      "img/phones/apple-iphone-7-plus/black/00.png",
-      "img/phones/apple-iphone-7-plus/black/01.png",
-      "img/phones/apple-iphone-7-plus/black/02.png",
-      "img/phones/apple-iphone-7-plus/black/03.png",
-      "img/phones/apple-iphone-7-plus/black/04.png"
+      "img/phones/apple-iphone-7-plus/black/00.webp",
+      "img/phones/apple-iphone-7-plus/black/01.webp",
+      "img/phones/apple-iphone-7-plus/black/02.webp",
+      "img/phones/apple-iphone-7-plus/black/03.webp",
+      "img/phones/apple-iphone-7-plus/black/04.webp"
     ],
     "description": [
       {
@@ -2174,11 +2174,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-7-plus/gold/00.png",
-      "img/phones/apple-iphone-7-plus/gold/01.png",
-      "img/phones/apple-iphone-7-plus/gold/02.png",
-      "img/phones/apple-iphone-7-plus/gold/03.png",
-      "img/phones/apple-iphone-7-plus/gold/04.png"
+      "img/phones/apple-iphone-7-plus/gold/00.webp",
+      "img/phones/apple-iphone-7-plus/gold/01.webp",
+      "img/phones/apple-iphone-7-plus/gold/02.webp",
+      "img/phones/apple-iphone-7-plus/gold/03.webp",
+      "img/phones/apple-iphone-7-plus/gold/04.webp"
     ],
     "description": [
       {
@@ -2221,11 +2221,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "rosegold",
     "images": [
-      "img/phones/apple-iphone-7-plus/rosegold/00.png",
-      "img/phones/apple-iphone-7-plus/rosegold/01.png",
-      "img/phones/apple-iphone-7-plus/rosegold/02.png",
-      "img/phones/apple-iphone-7-plus/rosegold/03.png",
-      "img/phones/apple-iphone-7-plus/rosegold/04.png"
+      "img/phones/apple-iphone-7-plus/rosegold/00.webp",
+      "img/phones/apple-iphone-7-plus/rosegold/01.webp",
+      "img/phones/apple-iphone-7-plus/rosegold/02.webp",
+      "img/phones/apple-iphone-7-plus/rosegold/03.webp",
+      "img/phones/apple-iphone-7-plus/rosegold/04.webp"
     ],
     "description": [
       {
@@ -2268,11 +2268,11 @@
     "colorsAvailable": ["black", "rosegold", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-7-plus/silver/00.png",
-      "img/phones/apple-iphone-7-plus/silver/01.png",
-      "img/phones/apple-iphone-7-plus/silver/02.png",
-      "img/phones/apple-iphone-7-plus/silver/03.png",
-      "img/phones/apple-iphone-7-plus/silver/04.png"
+      "img/phones/apple-iphone-7-plus/silver/00.webp",
+      "img/phones/apple-iphone-7-plus/silver/01.webp",
+      "img/phones/apple-iphone-7-plus/silver/02.webp",
+      "img/phones/apple-iphone-7-plus/silver/03.webp",
+      "img/phones/apple-iphone-7-plus/silver/04.webp"
     ],
     "description": [
       {
@@ -2315,10 +2315,10 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-8/gold/00.png",
-      "img/phones/apple-iphone-8/gold/01.png",
-      "img/phones/apple-iphone-8/gold/02.png",
-      "img/phones/apple-iphone-8/gold/03.png"
+      "img/phones/apple-iphone-8/gold/00.webp",
+      "img/phones/apple-iphone-8/gold/01.webp",
+      "img/phones/apple-iphone-8/gold/02.webp",
+      "img/phones/apple-iphone-8/gold/03.webp"
     ],
     "description": [
       {
@@ -2361,10 +2361,10 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-8/silver/00.png",
-      "img/phones/apple-iphone-8/silver/01.png",
-      "img/phones/apple-iphone-8/silver/02.png",
-      "img/phones/apple-iphone-8/silver/03.png"
+      "img/phones/apple-iphone-8/silver/00.webp",
+      "img/phones/apple-iphone-8/silver/01.webp",
+      "img/phones/apple-iphone-8/silver/02.webp",
+      "img/phones/apple-iphone-8/silver/03.webp"
     ],
     "description": [
       {
@@ -2407,10 +2407,10 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-8/spacegray/00.png",
-      "img/phones/apple-iphone-8/spacegray/01.png",
-      "img/phones/apple-iphone-8/spacegray/02.png",
-      "img/phones/apple-iphone-8/spacegray/03.png"
+      "img/phones/apple-iphone-8/spacegray/00.webp",
+      "img/phones/apple-iphone-8/spacegray/01.webp",
+      "img/phones/apple-iphone-8/spacegray/02.webp",
+      "img/phones/apple-iphone-8/spacegray/03.webp"
     ],
     "description": [
       {
@@ -2453,11 +2453,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "coral",
     "images": [
-      "img/phones/apple-iphone-xr/coral/00.png",
-      "img/phones/apple-iphone-xr/coral/01.png",
-      "img/phones/apple-iphone-xr/coral/02.png",
-      "img/phones/apple-iphone-xr/coral/03.png",
-      "img/phones/apple-iphone-xr/coral/04.png"
+      "img/phones/apple-iphone-xr/coral/00.webp",
+      "img/phones/apple-iphone-xr/coral/01.webp",
+      "img/phones/apple-iphone-xr/coral/02.webp",
+      "img/phones/apple-iphone-xr/coral/03.webp",
+      "img/phones/apple-iphone-xr/coral/04.webp"
     ],
     "description": [
       {
@@ -2500,11 +2500,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "red",
     "images": [
-      "img/phones/apple-iphone-xr/red/00.png",
-      "img/phones/apple-iphone-xr/red/01.png",
-      "img/phones/apple-iphone-xr/red/02.png",
-      "img/phones/apple-iphone-xr/red/03.png",
-      "img/phones/apple-iphone-xr/red/04.png"
+      "img/phones/apple-iphone-xr/red/00.webp",
+      "img/phones/apple-iphone-xr/red/01.webp",
+      "img/phones/apple-iphone-xr/red/02.webp",
+      "img/phones/apple-iphone-xr/red/03.webp",
+      "img/phones/apple-iphone-xr/red/04.webp"
     ],
     "description": [
       {
@@ -2547,11 +2547,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "white",
     "images": [
-      "img/phones/apple-iphone-xr/white/00.png",
-      "img/phones/apple-iphone-xr/white/01.png",
-      "img/phones/apple-iphone-xr/white/02.png",
-      "img/phones/apple-iphone-xr/white/03.png",
-      "img/phones/apple-iphone-xr/white/04.png"
+      "img/phones/apple-iphone-xr/white/00.webp",
+      "img/phones/apple-iphone-xr/white/01.webp",
+      "img/phones/apple-iphone-xr/white/02.webp",
+      "img/phones/apple-iphone-xr/white/03.webp",
+      "img/phones/apple-iphone-xr/white/04.webp"
     ],
     "description": [
       {
@@ -2594,11 +2594,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-xr/yellow/00.png",
-      "img/phones/apple-iphone-xr/yellow/01.png",
-      "img/phones/apple-iphone-xr/yellow/02.png",
-      "img/phones/apple-iphone-xr/yellow/03.png",
-      "img/phones/apple-iphone-xr/yellow/04.png"
+      "img/phones/apple-iphone-xr/yellow/00.webp",
+      "img/phones/apple-iphone-xr/yellow/01.webp",
+      "img/phones/apple-iphone-xr/yellow/02.webp",
+      "img/phones/apple-iphone-xr/yellow/03.webp",
+      "img/phones/apple-iphone-xr/yellow/04.webp"
     ],
     "description": [
       {
@@ -2641,9 +2641,9 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "coral",
     "images": [
-      "img/phones/apple-iphone-xr/coral/00.png",
-      "img/phones/apple-iphone-xr/coral/01.png",
-      "img/phones/apple-iphone-xr/coral/02.png"
+      "img/phones/apple-iphone-xr/coral/00.webp",
+      "img/phones/apple-iphone-xr/coral/01.webp",
+      "img/phones/apple-iphone-xr/coral/02.webp"
     ],
     "description": [
       {
@@ -2686,11 +2686,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "red",
     "images": [
-      "img/phones/apple-iphone-xr/red/00.png",
-      "img/phones/apple-iphone-xr/red/01.png",
-      "img/phones/apple-iphone-xr/red/02.png",
-      "img/phones/apple-iphone-xr/red/03.png",
-      "img/phones/apple-iphone-xr/red/04.png"
+      "img/phones/apple-iphone-xr/red/00.webp",
+      "img/phones/apple-iphone-xr/red/01.webp",
+      "img/phones/apple-iphone-xr/red/02.webp",
+      "img/phones/apple-iphone-xr/red/03.webp",
+      "img/phones/apple-iphone-xr/red/04.webp"
     ],
     "description": [
       {
@@ -2733,11 +2733,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "white",
     "images": [
-      "img/phones/apple-iphone-xr/white/00.png",
-      "img/phones/apple-iphone-xr/white/01.png",
-      "img/phones/apple-iphone-xr/white/02.png",
-      "img/phones/apple-iphone-xr/white/03.png",
-      "img/phones/apple-iphone-xr/white/04.png"
+      "img/phones/apple-iphone-xr/white/00.webp",
+      "img/phones/apple-iphone-xr/white/01.webp",
+      "img/phones/apple-iphone-xr/white/02.webp",
+      "img/phones/apple-iphone-xr/white/03.webp",
+      "img/phones/apple-iphone-xr/white/04.webp"
     ],
     "description": [
       {
@@ -2780,11 +2780,11 @@
     "colorsAvailable": ["white", "yellow", "red", "coral"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-xr/yellow/00.png",
-      "img/phones/apple-iphone-xr/yellow/01.png",
-      "img/phones/apple-iphone-xr/yellow/02.png",
-      "img/phones/apple-iphone-xr/yellow/03.png",
-      "img/phones/apple-iphone-xr/yellow/04.png"
+      "img/phones/apple-iphone-xr/yellow/00.webp",
+      "img/phones/apple-iphone-xr/yellow/01.webp",
+      "img/phones/apple-iphone-xr/yellow/02.webp",
+      "img/phones/apple-iphone-xr/yellow/03.webp",
+      "img/phones/apple-iphone-xr/yellow/04.webp"
     ],
     "description": [
       {
@@ -2827,11 +2827,11 @@
     "colorsAvailable": ["spacegray", "gold"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-xs/gold/00.png",
-      "img/phones/apple-iphone-xs/gold/01.png",
-      "img/phones/apple-iphone-xs/gold/02.png",
-      "img/phones/apple-iphone-xs/gold/03.png",
-      "img/phones/apple-iphone-xs/gold/04.png"
+      "img/phones/apple-iphone-xs/gold/00.webp",
+      "img/phones/apple-iphone-xs/gold/01.webp",
+      "img/phones/apple-iphone-xs/gold/02.webp",
+      "img/phones/apple-iphone-xs/gold/03.webp",
+      "img/phones/apple-iphone-xs/gold/04.webp"
     ],
     "description": [
       {
@@ -2874,11 +2874,11 @@
     "colorsAvailable": ["spacegray", "gold"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-xs/spacegray/00.png",
-      "img/phones/apple-iphone-xs/spacegray/01.png",
-      "img/phones/apple-iphone-xs/spacegray/02.png",
-      "img/phones/apple-iphone-xs/spacegray/03.png",
-      "img/phones/apple-iphone-xs/spacegray/04.png"
+      "img/phones/apple-iphone-xs/spacegray/00.webp",
+      "img/phones/apple-iphone-xs/spacegray/01.webp",
+      "img/phones/apple-iphone-xs/spacegray/02.webp",
+      "img/phones/apple-iphone-xs/spacegray/03.webp",
+      "img/phones/apple-iphone-xs/spacegray/04.webp"
     ],
     "description": [
       {
@@ -2921,11 +2921,11 @@
     "colorsAvailable": ["spacegray", "gold"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-xs/gold/00.png",
-      "img/phones/apple-iphone-xs/gold/01.png",
-      "img/phones/apple-iphone-xs/gold/02.png",
-      "img/phones/apple-iphone-xs/gold/03.png",
-      "img/phones/apple-iphone-xs/gold/04.png"
+      "img/phones/apple-iphone-xs/gold/00.webp",
+      "img/phones/apple-iphone-xs/gold/01.webp",
+      "img/phones/apple-iphone-xs/gold/02.webp",
+      "img/phones/apple-iphone-xs/gold/03.webp",
+      "img/phones/apple-iphone-xs/gold/04.webp"
     ],
     "description": [
       {
@@ -2968,11 +2968,11 @@
     "colorsAvailable": ["spacegray", "gold"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-xs/spacegray/00.png",
-      "img/phones/apple-iphone-xs/spacegray/01.png",
-      "img/phones/apple-iphone-xs/spacegray/02.png",
-      "img/phones/apple-iphone-xs/spacegray/03.png",
-      "img/phones/apple-iphone-xs/spacegray/04.png"
+      "img/phones/apple-iphone-xs/spacegray/00.webp",
+      "img/phones/apple-iphone-xs/spacegray/01.webp",
+      "img/phones/apple-iphone-xs/spacegray/02.webp",
+      "img/phones/apple-iphone-xs/spacegray/03.webp",
+      "img/phones/apple-iphone-xs/spacegray/04.webp"
     ],
     "description": [
       {
@@ -3015,11 +3015,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-xs-max/gold/00.png",
-      "img/phones/apple-iphone-xs-max/gold/01.png",
-      "img/phones/apple-iphone-xs-max/gold/02.png",
-      "img/phones/apple-iphone-xs-max/gold/03.png",
-      "img/phones/apple-iphone-xs-max/gold/04.png"
+      "img/phones/apple-iphone-xs-max/gold/00.webp",
+      "img/phones/apple-iphone-xs-max/gold/01.webp",
+      "img/phones/apple-iphone-xs-max/gold/02.webp",
+      "img/phones/apple-iphone-xs-max/gold/03.webp",
+      "img/phones/apple-iphone-xs-max/gold/04.webp"
     ],
     "description": [
       {
@@ -3062,11 +3062,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-xs-max/silver/00.png",
-      "img/phones/apple-iphone-xs-max/silver/01.png",
-      "img/phones/apple-iphone-xs-max/silver/02.png",
-      "img/phones/apple-iphone-xs-max/silver/03.png",
-      "img/phones/apple-iphone-xs-max/silver/04.png"
+      "img/phones/apple-iphone-xs-max/silver/00.webp",
+      "img/phones/apple-iphone-xs-max/silver/01.webp",
+      "img/phones/apple-iphone-xs-max/silver/02.webp",
+      "img/phones/apple-iphone-xs-max/silver/03.webp",
+      "img/phones/apple-iphone-xs-max/silver/04.webp"
     ],
     "description": [
       {
@@ -3109,11 +3109,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-xs-max/spacegray/00.png",
-      "img/phones/apple-iphone-xs-max/spacegray/01.png",
-      "img/phones/apple-iphone-xs-max/spacegray/02.png",
-      "img/phones/apple-iphone-xs-max/spacegray/03.png",
-      "img/phones/apple-iphone-xs-max/spacegray/04.png"
+      "img/phones/apple-iphone-xs-max/spacegray/00.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/01.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/02.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/03.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/04.webp"
     ],
     "description": [
       {
@@ -3156,11 +3156,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "gold",
     "images": [
-      "img/phones/apple-iphone-xs-max/gold/00.png",
-      "img/phones/apple-iphone-xs-max/gold/01.png",
-      "img/phones/apple-iphone-xs-max/gold/02.png",
-      "img/phones/apple-iphone-xs-max/gold/03.png",
-      "img/phones/apple-iphone-xs-max/gold/04.png"
+      "img/phones/apple-iphone-xs-max/gold/00.webp",
+      "img/phones/apple-iphone-xs-max/gold/01.webp",
+      "img/phones/apple-iphone-xs-max/gold/02.webp",
+      "img/phones/apple-iphone-xs-max/gold/03.webp",
+      "img/phones/apple-iphone-xs-max/gold/04.webp"
     ],
     "description": [
       {
@@ -3203,11 +3203,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "silver",
     "images": [
-      "img/phones/apple-iphone-xs-max/silver/00.png",
-      "img/phones/apple-iphone-xs-max/silver/01.png",
-      "img/phones/apple-iphone-xs-max/silver/02.png",
-      "img/phones/apple-iphone-xs-max/silver/03.png",
-      "img/phones/apple-iphone-xs-max/silver/04.png"
+      "img/phones/apple-iphone-xs-max/silver/00.webp",
+      "img/phones/apple-iphone-xs-max/silver/01.webp",
+      "img/phones/apple-iphone-xs-max/silver/02.webp",
+      "img/phones/apple-iphone-xs-max/silver/03.webp",
+      "img/phones/apple-iphone-xs-max/silver/04.webp"
     ],
     "description": [
       {
@@ -3250,11 +3250,11 @@
     "colorsAvailable": ["spacegray", "gold", "silver"],
     "color": "spacegray",
     "images": [
-      "img/phones/apple-iphone-xs-max/spacegray/00.png",
-      "img/phones/apple-iphone-xs-max/spacegray/01.png",
-      "img/phones/apple-iphone-xs-max/spacegray/02.png",
-      "img/phones/apple-iphone-xs-max/spacegray/03.png",
-      "img/phones/apple-iphone-xs-max/spacegray/04.png"
+      "img/phones/apple-iphone-xs-max/spacegray/00.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/01.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/02.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/03.webp",
+      "img/phones/apple-iphone-xs-max/spacegray/04.webp"
     ],
     "description": [
       {
@@ -3296,11 +3296,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "midnight",
     "images": [
-      "img/phones/apple-iphone-14/midnight/00.png",
-      "img/phones/apple-iphone-14/midnight/01.png",
-      "img/phones/apple-iphone-14/midnight/02.png",
-      "img/phones/apple-iphone-14/midnight/03.png",
-      "img/phones/apple-iphone-14/midnight/04.png"
+      "img/phones/apple-iphone-14/midnight/00.webp",
+      "img/phones/apple-iphone-14/midnight/01.webp",
+      "img/phones/apple-iphone-14/midnight/02.webp",
+      "img/phones/apple-iphone-14/midnight/03.webp",
+      "img/phones/apple-iphone-14/midnight/04.webp"
     ],
     "description": [
       {
@@ -3342,11 +3342,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "midnight",
     "images": [
-      "img/phones/apple-iphone-14/midnight/00.png",
-      "img/phones/apple-iphone-14/midnight/01.png",
-      "img/phones/apple-iphone-14/midnight/02.png",
-      "img/phones/apple-iphone-14/midnight/03.png",
-      "img/phones/apple-iphone-14/midnight/04.png"
+      "img/phones/apple-iphone-14/midnight/00.webp",
+      "img/phones/apple-iphone-14/midnight/01.webp",
+      "img/phones/apple-iphone-14/midnight/02.webp",
+      "img/phones/apple-iphone-14/midnight/03.webp",
+      "img/phones/apple-iphone-14/midnight/04.webp"
     ],
     "description": [
       {
@@ -3388,11 +3388,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "midnight",
     "images": [
-      "img/phones/apple-iphone-14/midnight/00.png",
-      "img/phones/apple-iphone-14/midnight/01.png",
-      "img/phones/apple-iphone-14/midnight/02.png",
-      "img/phones/apple-iphone-14/midnight/03.png",
-      "img/phones/apple-iphone-14/midnight/04.png"
+      "img/phones/apple-iphone-14/midnight/00.webp",
+      "img/phones/apple-iphone-14/midnight/01.webp",
+      "img/phones/apple-iphone-14/midnight/02.webp",
+      "img/phones/apple-iphone-14/midnight/03.webp",
+      "img/phones/apple-iphone-14/midnight/04.webp"
     ],
     "description": [
       {
@@ -3434,11 +3434,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-14/yellow/00.png",
-      "img/phones/apple-iphone-14/yellow/01.png",
-      "img/phones/apple-iphone-14/yellow/02.png",
-      "img/phones/apple-iphone-14/yellow/03.png",
-      "img/phones/apple-iphone-14/yellow/04.png"
+      "img/phones/apple-iphone-14/yellow/00.webp",
+      "img/phones/apple-iphone-14/yellow/01.webp",
+      "img/phones/apple-iphone-14/yellow/02.webp",
+      "img/phones/apple-iphone-14/yellow/03.webp",
+      "img/phones/apple-iphone-14/yellow/04.webp"
     ],
     "description": [
       {
@@ -3480,11 +3480,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-14/yellow/00.png",
-      "img/phones/apple-iphone-14/yellow/01.png",
-      "img/phones/apple-iphone-14/yellow/02.png",
-      "img/phones/apple-iphone-14/yellow/03.png",
-      "img/phones/apple-iphone-14/yellow/04.png"
+      "img/phones/apple-iphone-14/yellow/00.webp",
+      "img/phones/apple-iphone-14/yellow/01.webp",
+      "img/phones/apple-iphone-14/yellow/02.webp",
+      "img/phones/apple-iphone-14/yellow/03.webp",
+      "img/phones/apple-iphone-14/yellow/04.webp"
     ],
     "description": [
       {
@@ -3526,11 +3526,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "yellow",
     "images": [
-      "img/phones/apple-iphone-14/yellow/00.png",
-      "img/phones/apple-iphone-14/yellow/01.png",
-      "img/phones/apple-iphone-14/yellow/02.png",
-      "img/phones/apple-iphone-14/yellow/03.png",
-      "img/phones/apple-iphone-14/yellow/04.png"
+      "img/phones/apple-iphone-14/yellow/00.webp",
+      "img/phones/apple-iphone-14/yellow/01.webp",
+      "img/phones/apple-iphone-14/yellow/02.webp",
+      "img/phones/apple-iphone-14/yellow/03.webp",
+      "img/phones/apple-iphone-14/yellow/04.webp"
     ],
     "description": [
       {
@@ -3572,11 +3572,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-14/purple/00.png",
-      "img/phones/apple-iphone-14/purple/01.png",
-      "img/phones/apple-iphone-14/purple/02.png",
-      "img/phones/apple-iphone-14/purple/03.png",
-      "img/phones/apple-iphone-14/purple/04.png"
+      "img/phones/apple-iphone-14/purple/00.webp",
+      "img/phones/apple-iphone-14/purple/01.webp",
+      "img/phones/apple-iphone-14/purple/02.webp",
+      "img/phones/apple-iphone-14/purple/03.webp",
+      "img/phones/apple-iphone-14/purple/04.webp"
     ],
     "description": [
       {
@@ -3618,11 +3618,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-14/purple/00.png",
-      "img/phones/apple-iphone-14/purple/01.png",
-      "img/phones/apple-iphone-14/purple/02.png",
-      "img/phones/apple-iphone-14/purple/03.png",
-      "img/phones/apple-iphone-14/purple/04.png"
+      "img/phones/apple-iphone-14/purple/00.webp",
+      "img/phones/apple-iphone-14/purple/01.webp",
+      "img/phones/apple-iphone-14/purple/02.webp",
+      "img/phones/apple-iphone-14/purple/03.webp",
+      "img/phones/apple-iphone-14/purple/04.webp"
     ],
     "description": [
       {
@@ -3664,11 +3664,11 @@
     "colorsAvailable": ["midnight", "yellow", "purple"],
     "color": "purple",
     "images": [
-      "img/phones/apple-iphone-14/purple/00.png",
-      "img/phones/apple-iphone-14/purple/01.png",
-      "img/phones/apple-iphone-14/purple/02.png",
-      "img/phones/apple-iphone-14/purple/03.png",
-      "img/phones/apple-iphone-14/purple/04.png"
+      "img/phones/apple-iphone-14/purple/00.webp",
+      "img/phones/apple-iphone-14/purple/01.webp",
+      "img/phones/apple-iphone-14/purple/02.webp",
+      "img/phones/apple-iphone-14/purple/03.webp",
+      "img/phones/apple-iphone-14/purple/04.webp"
     ],
     "description": [
       {
@@ -3710,11 +3710,11 @@
     "colorsAvailable": ["spaceblack", "gold"],
     "color": "spaceblack",
     "images": [
-      "img/phones/apple-iphone-14-pro/spaceblack/00.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/01.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/02.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/03.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/04.png"
+      "img/phones/apple-iphone-14-pro/spaceblack/00.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/01.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/02.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/03.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/04.webp"
     ],
     "description": [
       {
@@ -3756,11 +3756,11 @@
     "colorsAvailable": ["spaceblack", "gold"],
     "color": "spaceblack",
     "images": [
-      "img/phones/apple-iphone-14-pro/spaceblack/00.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/01.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/02.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/03.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/04.png"
+      "img/phones/apple-iphone-14-pro/spaceblack/00.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/01.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/02.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/03.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/04.webp"
     ],
     "description": [
       {
@@ -3802,11 +3802,11 @@
     "colorsAvailable": ["spaceblack", "gold"],
     "color": "spaceblack",
     "images": [
-      "img/phones/apple-iphone-14-pro/spaceblack/00.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/01.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/02.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/03.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/04.png"
+      "img/phones/apple-iphone-14-pro/spaceblack/00.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/01.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/02.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/03.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/04.webp"
     ],
     "description": [
       {
@@ -3848,11 +3848,1784 @@
     "colorsAvailable": ["spaceblack", "gold"],
     "color": "spaceblack",
     "images": [
-      "img/phones/apple-iphone-14-pro/spaceblack/00.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/01.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/02.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/03.png",
-      "img/phones/apple-iphone-14-pro/spaceblack/04.png"
+      "img/phones/apple-iphone-14-pro/spaceblack/00.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/01.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/02.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/03.webp",
+      "img/phones/apple-iphone-14-pro/spaceblack/04.webp"
+    ],
+    "description": [
+      {
+        "title": "And then was a Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED (Super Retina XDR)",
+    "resolution": "2556x1179",
+    "processor": "Apple A16 Bionic",
+    "ram": "6GB",
+    "camera": "48 Mp + 12 Mp + 12MP + 12Mp",
+    "zoom": "Digital 5x, Optical 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-12-64gb-black",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 64GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "img/phones/apple-iphone-12/black/00.webp",
+      "img/phones/apple-iphone-12/black/01.webp",
+      "img/phones/apple-iphone-12/black/02.webp",
+      "img/phones/apple-iphone-12/black/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-128gb-black",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 128GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "img/phones/apple-iphone-12/black/00.webp",
+      "img/phones/apple-iphone-12/black/01.webp",
+      "img/phones/apple-iphone-12/black/02.webp",
+      "img/phones/apple-iphone-12/black/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-256gb-black",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 256GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "img/phones/apple-iphone-12/black/00.webp",
+      "img/phones/apple-iphone-12/black/01.webp",
+      "img/phones/apple-iphone-12/black/02.webp",
+      "img/phones/apple-iphone-12/black/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-64gb-purple",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 64GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-12/purple/00.webp",
+      "img/phones/apple-iphone-12/purple/01.webp",
+      "img/phones/apple-iphone-12/purple/02.webp",
+      "img/phones/apple-iphone-12/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-128gb-purple",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 128GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-12/purple/00.webp",
+      "img/phones/apple-iphone-12/purple/01.webp",
+      "img/phones/apple-iphone-12/purple/02.webp",
+      "img/phones/apple-iphone-12/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-256gb-purple",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 256GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-12/purple/00.webp",
+      "img/phones/apple-iphone-12/purple/01.webp",
+      "img/phones/apple-iphone-12/purple/02.webp",
+      "img/phones/apple-iphone-12/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-64gb-red",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 64GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "img/phones/apple-iphone-12/red/00.webp",
+      "img/phones/apple-iphone-12/red/01.webp",
+      "img/phones/apple-iphone-12/red/02.webp",
+      "img/phones/apple-iphone-12/red/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-128gb-red",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 128GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "img/phones/apple-iphone-12/red/00.webp",
+      "img/phones/apple-iphone-12/red/01.webp",
+      "img/phones/apple-iphone-12/red/02.webp",
+      "img/phones/apple-iphone-12/red/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-256gb-red",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 256GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "img/phones/apple-iphone-12/red/00.webp",
+      "img/phones/apple-iphone-12/red/01.webp",
+      "img/phones/apple-iphone-12/red/02.webp",
+      "img/phones/apple-iphone-12/red/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-64gb-white",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 64GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-12/white/00.webp",
+      "img/phones/apple-iphone-12/white/01.webp",
+      "img/phones/apple-iphone-12/white/02.webp",
+      "img/phones/apple-iphone-12/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-128gb-white",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 128GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-12/white/00.webp",
+      "img/phones/apple-iphone-12/white/01.webp",
+      "img/phones/apple-iphone-12/white/02.webp",
+      "img/phones/apple-iphone-12/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-12-256gb-white",
+    "namespaceId": "apple-iphone-12",
+    "name": "Apple iPhone 12 256GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["black", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-12/white/00.webp",
+      "img/phones/apple-iphone-12/white/01.webp",
+      "img/phones/apple-iphone-12/white/02.webp",
+      "img/phones/apple-iphone-12/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Blast past fast.",
+        "text": [
+          "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
+        ]
+      },
+      {
+        "title": "A14 Bionic chip. The only thing even close was our last chip.",
+        "text": [
+          "A14 Bionic is the first 5-nanometer chip in the industry, with advanced components literally atoms wide. Forty percent more transistors rev up speeds while increasing efficiency for great battery life. And a new ISP powers Dolby Vision recording — something no pro movie camera, let alone any other phone, can do."
+        ]
+      },
+      {
+        "title": "Night mode comes to all your cameras.",
+        "text": [
+          "Low light is now a highlight. From dimly lit restaurants to moonlit beaches, the new Night mode delivers natural low-light shots — automatically."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED",
+    "resolution": "2532x1170",
+    "processor": "Apple A14 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-13-mini-64gb-midnight",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 64GB Midnight",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "midnight",
+    "images": [
+      "img/phones/apple-iphone-13-mini/midnight/00.webp",
+      "img/phones/apple-iphone-13-mini/midnight/01.webp",
+      "img/phones/apple-iphone-13-mini/midnight/02.webp",
+      "img/phones/apple-iphone-13-mini/midnight/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-128gb-midnight",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 128GB Midnight",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "midnight",
+    "images": [
+      "img/phones/apple-iphone-13-mini/midnight/00.webp",
+      "img/phones/apple-iphone-13-mini/midnight/01.webp",
+      "img/phones/apple-iphone-13-mini/midnight/02.webp",
+      "img/phones/apple-iphone-13-mini/midnight/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-256gb-midnight",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 256GB Midnight",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "midnight",
+    "images": [
+      "img/phones/apple-iphone-13-mini/midnight/00.webp",
+      "img/phones/apple-iphone-13-mini/midnight/01.webp",
+      "img/phones/apple-iphone-13-mini/midnight/02.webp",
+      "img/phones/apple-iphone-13-mini/midnight/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-64gb-purple",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 64GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-13-mini/purple/00.webp",
+      "img/phones/apple-iphone-13-mini/purple/01.webp",
+      "img/phones/apple-iphone-13-mini/purple/02.webp",
+      "img/phones/apple-iphone-13-mini/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-128gb-purple",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 128GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-13-mini/purple/00.webp",
+      "img/phones/apple-iphone-13-mini/purple/01.webp",
+      "img/phones/apple-iphone-13-mini/purple/02.webp",
+      "img/phones/apple-iphone-13-mini/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-256gb-purple",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 256GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "purple",
+    "images": [
+      "img/phones/apple-iphone-13-mini/purple/00.webp",
+      "img/phones/apple-iphone-13-mini/purple/01.webp",
+      "img/phones/apple-iphone-13-mini/purple/02.webp",
+      "img/phones/apple-iphone-13-mini/purple/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-64gb-pink",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 64GB Pink",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "pink",
+    "images": [
+      "img/phones/apple-iphone-13-mini/pink/00.webp",
+      "img/phones/apple-iphone-13-mini/pink/01.webp",
+      "img/phones/apple-iphone-13-mini/pink/02.webp",
+      "img/phones/apple-iphone-13-mini/pink/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-128gb-pink",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 128GB Pink",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "pink",
+    "images": [
+      "img/phones/apple-iphone-13-mini/pink/00.webp",
+      "img/phones/apple-iphone-13-mini/pink/01.webp",
+      "img/phones/apple-iphone-13-mini/pink/02.webp",
+      "img/phones/apple-iphone-13-mini/pink/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-256gb-pink",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 256GB Pink",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1180,
+    "priceDiscount": 1100,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "pink",
+    "images": [
+      "img/phones/apple-iphone-13-mini/pink/00.webp",
+      "img/phones/apple-iphone-13-mini/pink/01.webp",
+      "img/phones/apple-iphone-13-mini/pink/02.webp",
+      "img/phones/apple-iphone-13-mini/pink/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-64gb-white",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 64GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-13-mini/white/00.webp",
+      "img/phones/apple-iphone-13-mini/white/01.webp",
+      "img/phones/apple-iphone-13-mini/white/02.webp",
+      "img/phones/apple-iphone-13-mini/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-128gb-white",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 128GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-13-mini/white/00.webp",
+      "img/phones/apple-iphone-13-mini/white/01.webp",
+      "img/phones/apple-iphone-13-mini/white/02.webp",
+      "img/phones/apple-iphone-13-mini/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-256gb-white",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 256GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 999,
+    "priceDiscount": 949,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "white",
+    "images": [
+      "img/phones/apple-iphone-13-mini/white/00.webp",
+      "img/phones/apple-iphone-13-mini/white/01.webp",
+      "img/phones/apple-iphone-13-mini/white/02.webp",
+      "img/phones/apple-iphone-13-mini/white/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-64gb-blue",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 64GB Blue",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 880,
+    "priceDiscount": 800,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "blue",
+    "images": [
+      "img/phones/apple-iphone-13-mini/blue/00.webp",
+      "img/phones/apple-iphone-13-mini/blue/01.webp",
+      "img/phones/apple-iphone-13-mini/blue/02.webp",
+      "img/phones/apple-iphone-13-mini/blue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-128gb-blue",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 128GB Blue",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 980,
+    "priceDiscount": 900,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "blue",
+    "images": [
+      "img/phones/apple-iphone-13-mini/blue/00.webp",
+      "img/phones/apple-iphone-13-mini/blue/01.webp",
+      "img/phones/apple-iphone-13-mini/blue/02.webp",
+      "img/phones/apple-iphone-13-mini/blue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-mini-256gb-blue",
+    "namespaceId": "apple-iphone-13-mini",
+    "name": "Apple iPhone 13 Mini 256GB Blue",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 999,
+    "priceDiscount": 949,
+    "colorsAvailable": ["midnight", "white", "blue", "pink"],
+    "color": "blue",
+    "images": [
+      "img/phones/apple-iphone-13-mini/blue/00.webp",
+      "img/phones/apple-iphone-13-mini/blue/01.webp",
+      "img/phones/apple-iphone-13-mini/blue/02.webp",
+      "img/phones/apple-iphone-13-mini/blue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "Your new superpower.",
+        "text": [
+          "A15 Bionic, the fastest chip ever in a smartphone. Super Retina XDR display with ProMotion. Durable Ceramic Shield with 4x better drop performance. New Night mode on all cameras. It’s the ultimate iPhone, powered by the ultimate chip."
+        ]
+      },
+      {
+        "title": "A15 Bionic chip. Super power. Mini sized.",
+        "text": [
+          "The A15 Bionic chip is the fastest chip ever in a smartphone. It powers everything from photography to gaming. And the incredible Machine Learning accelerators allow you to experience augmented reality like never before."
+        ]
+      },
+      {
+        "title": "Amazing Camera. No Pro Required.",
+        "text": [
+          "iPhone 13 Mini takes stunning photos and videos with its advanced dual-camera system, with a new Night mode on all cameras. And Photographic Styles personalizes your photos in the moment for a beautiful look."
+        ]
+      }
+    ],
+    "screen": "5.4' Super Retina XDR",
+    "resolution": "2532x1170",
+    "processor": "Apple A15 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp",
+    "zoom": "Optical, 2x; Digital, 5x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-128gb-sierrablue",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 128GB Sierra Blue",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "128GB",
+    "priceRegular": 1286,
+    "priceDiscount": 1260,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "sierrablue",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/sierrablue/00.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/01.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/02.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-256gb-sierrablue",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 256GB Sierra Blue",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "256GB",
+    "priceRegular": 1399,
+    "priceDiscount": 1379,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "sierrablue",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/sierrablue/00.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/01.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/02.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-512gb-sierrablue",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 512GB Sierra Blue",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "512GB",
+    "priceRegular": 1426,
+    "priceDiscount": 1371,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "sierrablue",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/sierrablue/00.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/01.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/02.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-1tb-sierrablue",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "1TB",
+    "priceRegular": 1700,
+    "priceDiscount": 1540,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "sierrablue",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/sierrablue/00.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/01.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/02.webp",
+      "img/phones/apple-iphone-13-pro-max/sierrablue/03.webp"
+    ],
+    "description": [
+      {
+        "title": "And then was a Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED (Super Retina XDR)",
+    "resolution": "2556x1179",
+    "processor": "Apple A16 Bionic",
+    "ram": "6GB",
+    "camera": "48 Mp + 12 Mp + 12MP + 12Mp",
+    "zoom": "Digital 5x, Optical 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-128gb-graphite",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 128GB Graphite",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "128GB",
+    "priceRegular": 1286,
+    "priceDiscount": 1260,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "graphite",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/graphite/00.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/01.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/02.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-256gb-graphite",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 256GB Graphite",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "256GB",
+    "priceRegular": 1399,
+    "priceDiscount": 1379,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "graphite",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/graphite/00.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/01.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/02.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-512gb-graphite",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 512GB Graphite",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "512GB",
+    "priceRegular": 1426,
+    "priceDiscount": 1371,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "graphite",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/graphite/00.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/01.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/02.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-1tb-graphite",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 1TB Graphite",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "1TB",
+    "priceRegular": 1700,
+    "priceDiscount": 1540,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "graphite",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/graphite/00.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/01.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/02.webp",
+      "img/phones/apple-iphone-13-pro-max/graphite/03.webp"
+    ],
+    "description": [
+      {
+        "title": "And then was a Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' OLED (Super Retina XDR)",
+    "resolution": "2556x1179",
+    "processor": "Apple A16 Bionic",
+    "ram": "6GB",
+    "camera": "48 Mp + 12 Mp + 12MP + 12Mp",
+    "zoom": "Digital 5x, Optical 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-128gb-gold",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 128GB Gold",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "128GB",
+    "priceRegular": 1286,
+    "priceDiscount": 1260,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "gold",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/02.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-256gb-gold",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 256GB Gold",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "256GB",
+    "priceRegular": 1399,
+    "priceDiscount": 1379,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "gold",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/02.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-512gb-gold",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 512GB Gold",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "512GB",
+    "priceRegular": 1426,
+    "priceDiscount": 1371,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "gold",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/02.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/03.webp"
+    ],
+    "description": [
+      {
+        "title": "The Ultimate Pro Camera System",
+        "text": [
+          "Introducing the first pro camera system that's also an iPhone — delivering 3x optical zoom, macro photography, Night mode portraits, and a new ProRes format for the highest-quality video ever in a smartphone. Get ready to shoot like a pro."
+        ]
+      },
+      {
+        "title": "Cinematic Mode",
+        "text": [
+          "Film like a pro with exclusive access to the depth-of-field effect of Cinema mode, now on both the Wide and Telephoto cameras. Add focus transitions for a creative look, and easily switch between cameras to capture more of the moment."
+        ]
+      },
+      {
+        "title": "A15 Bionic",
+        "text": [
+          "A15 Bionic is the fastest chip ever in a smartphone. It powers incredible experiences in photography, video, gaming, and more — all while delivering great battery life. And it enables the most advanced machine learning capabilities in any smartphone for next-level experiences."
+        ]
+      },
+      {
+        "title": "ProMotion",
+        "text": [
+          "ProMotion technology automatically adjusts the display to the movement on your screen, for more fluid scrolling, greater responsiveness, and smoother motion — and a battery that lasts all day."
+        ]
+      }
+    ],
+    "screen": "6.7' Super Retina XDR display",
+    "resolution": "2778x1284",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "camera": "12 Mp + 12 Mp + 12 Mp",
+    "zoom": "Optical, 3x; Digital, up to 15x",
+    "cell": ["GSM", "CDMA", "HSPA", "EVDO", "LTE", "5G"]
+  },
+  {
+    "id": "apple-iphone-13-pro-max-1tb-gold",
+    "namespaceId": "apple-iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max 1TB Gold",
+    "capacityAvailable": ["128GB", "256GB", "512GB", "1TB"],
+    "capacity": "1TB",
+    "priceRegular": 1700,
+    "priceDiscount": 1540,
+    "colorsAvailable": ["graphite", "gold", "sierrablue"],
+    "color": "gold",
+    "images": [
+      "img/phones/apple-iphone-13-pro-max/gold/00.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/01.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/02.webp",
+      "img/phones/apple-iphone-13-pro-max/gold/03.webp"
     ],
     "description": [
       {
