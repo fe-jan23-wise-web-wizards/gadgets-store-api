@@ -7,12 +7,6 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// model User {
-//   id    Int     @id @default(autoincrement())
-//   email String  @unique
-//   name  String?
-// }
-
 model Product {
   id        Int    @id @default(autoincrement())
   itemId    String @unique
@@ -46,5 +40,45 @@ model Phone {
   ram               String
   camera            String
   zoom              String
+  cell              String[]
+}
+
+model Tablet {
+  id                String   @unique
+  namespaceId       String
+  name              String
+  capacityAvailable String[]
+  capacity          String
+  priceRegular      Int
+  priceDiscount     Int
+  colorsAvailable   String[]
+  color             String
+  images            String[]
+  description       Json[]
+  screen            String
+  resolution        String
+  processor         String
+  ram               String
+  camera            String
+  zoom              String
+  cell              String[]
+}
+
+model Accessory {
+  id                String   @unique
+  namespaceId       String
+  name              String
+  capacityAvailable String[]
+  capacity          String
+  priceRegular      Int
+  priceDiscount     Int
+  colorsAvailable   String[]
+  color             String
+  images            String[]
+  description       Json[]
+  screen            String
+  resolution        String
+  processor         String
+  ram               String
   cell              String[]
 }
