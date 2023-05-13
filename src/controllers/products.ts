@@ -3,6 +3,7 @@ import { getPhoneById } from '../services/phones';
 import {
   getAll,
   getById,
+  getCount,
   getNew,
   getRecommended,
   getWithDiscount,
@@ -111,4 +112,21 @@ export const getProductById = async (req: Request, res: Response) => {
   }
 
   res.send(productDetails);
+};
+
+export const getProductsCount = async (req: Request, res: Response) => {
+  const { category = Category.ALL } = req.query;
+
+  if (Array.isArray(category)) {
+    res.sendStatus(400);
+
+    return;
+  }
+
+  const count = await getCount(category as Category);
+  const productsCount = {
+    count,
+  };
+
+  res.send(productsCount);
 };

@@ -77,7 +77,7 @@ export const getRecommended = async (id: string) => {
     where: {
       NOT: {
         itemId: id,
-      }
+      },
     },
     take: 12,
     skip: skip,
@@ -89,5 +89,17 @@ export const getById = (id: string) => {
     where: {
       itemId: id,
     },
+  });
+};
+
+export const getCount = (category: Category) => {
+  const where = {};
+
+  if (category !== Category.ALL) {
+    Object.assign(where, { category: category });
+  }
+
+  return prisma.product.count({
+    where: where,
   });
 };
