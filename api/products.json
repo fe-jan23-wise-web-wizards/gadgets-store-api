@@ -1346,44 +1346,44 @@
   {
     "id": 97,
     "category": "phones",
-    "itemId": "apple-iphone-13-mini-64gb-purple",
-    "name": "Apple iPhone 13 Pro 64GB Purple",
+    "itemId": "apple-iphone-13-mini-64gb-blue",
+    "name": "Apple iPhone 13 Pro 64GB Blue",
     "fullPrice": 890,
     "price": 760,
     "screen": "6.1' OLED",
     "capacity": "64GB",
-    "color": "purple",
+    "color": "blue",
     "ram": "4GB",
     "year": 2020,
-    "image": "img/phones/apple-iphone-13-mini/purple/00.webp"
+    "image": "img/phones/apple-iphone-13-mini/blue/00.webp"
   },
   {
     "id": 98,
     "category": "phones",
-    "itemId": "apple-iphone-13-mini-128gb-purple",
-    "name": "Apple iPhone 13 Pro 128GB Purple",
+    "itemId": "apple-iphone-13-mini-128gb-blue",
+    "name": "Apple iPhone 13 Mini 128GB Blue",
     "fullPrice": 900,
     "price": 820,
     "screen": "6.1' OLED",
     "capacity": "128GB",
-    "color": "purple",
+    "color": "blue",
     "ram": "4GB",
     "year": 2020,
-    "image": "img/phones/apple-iphone-13-mini/purple/00.webp"
+    "image": "img/phones/apple-iphone-13-mini/blue/00.webp"
   },
   {
     "id": 99,
     "category": "phones",
-    "itemId": "apple-iphone-13-mini-256gb-purple",
-    "name": "Apple iPhone 13 Pro 256GB Purple",
+    "itemId": "apple-iphone-13-mini-256gb-blue",
+    "name": "Apple iPhone 13 Mini 256GB Blue",
     "fullPrice": 1120,
     "price": 1040,
     "screen": "6.1' OLED",
     "capacity": "256GB",
-    "color": "purple",
+    "color": "blue",
     "ram": "4GB",
     "year": 2020,
-    "image": "img/phones/apple-iphone-13-mini/purple/00.webp"
+    "image": "img/phones/apple-iphone-13-mini/blue/00.webp"
   },
   {
     "id": 100,
