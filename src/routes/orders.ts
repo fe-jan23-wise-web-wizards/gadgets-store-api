@@ -3,5 +3,5 @@ import { getOrders, placeOrder } from '../controllers/orders';
 
 export const router = express.Router();
 
-router.get('/', getOrders);
+router.get('/:userId', getOrders);
 router.post('/new', placeOrder);
