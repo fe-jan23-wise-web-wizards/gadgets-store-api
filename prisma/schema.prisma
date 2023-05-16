@@ -82,3 +82,11 @@ model Accessory {
   ram               String
   cell              String[]
 }
+
+model Order {
+  id         String   @id @default(uuid())
+  userId     String
+  products   Json[]
+  totalPrice Int
+  createdAt  DateTime @default(now())
+}
