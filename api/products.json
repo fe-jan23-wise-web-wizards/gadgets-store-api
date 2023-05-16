@@ -2658,5 +2658,61 @@
     "screen": "7.9' Retina",
     "ram": "3GB",
     "year": 2019
+  },
+  {
+    "id": 191,
+    "category": "phones",
+    "itemId": "apple-iphone-14-pro-128gb-gold",
+    "name": "Apple iPhone 14 Pro 128GB Gold",
+    "fullPrice": 1156,
+    "price": 1068,
+    "screen": "6.1' OLED",
+    "capacity": "128GB",
+    "color": "gold",
+    "ram": "6GB",
+    "year": 2022,
+    "image": "img/phones/apple-iphone-14-pro/gold/00.webp"
+  },
+  {
+    "id": 192,
+    "category": "phones",
+    "itemId": "apple-iphone-14-pro-256gb-gold",
+    "name": "Apple iPhone 14 Pro 256GB Gold",
+    "fullPrice": 1300,
+    "price": 1220,
+    "screen": "6.1' OLED",
+    "capacity": "256GB",
+    "color": "gold",
+    "ram": "6GB",
+    "year": 2022,
+    "image": "img/phones/apple-iphone-14-pro/gold/00.webp"
+  },
+  {
+    "id": 193,
+    "category": "phones",
+    "itemId": "apple-iphone-14-pro-512gb-gold",
+    "name": "Apple iPhone 14 Pro 512GB Gold",
+    "fullPrice": 1600,
+    "price": 1530,
+    "screen": "6.1' OLED",
+    "capacity": "512GB",
+    "color": "gold",
+    "ram": "6GB",
+    "year": 2022,
+    "image": "img/phones/apple-iphone-14-pro/gold/00.webp"
+  },
+  {
+    "id": 194,
+    "category": "phones",
+    "itemId": "apple-iphone-14-pro-1tb-gold",
+    "name": "Apple iPhone 14 Pro 1TB Gold",
+    "fullPrice": 1740,
+    "price": 1520,
+    "screen": "6.1' OLED",
+    "capacity": "1TB",
+    "color": "gold",
+    "ram": "6GB",
+    "year": 2022,
+    "image": "img/phones/apple-iphone-14-pro/gold/00.webp"
   }
 ]
