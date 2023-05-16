@@ -3,7 +3,7 @@ import { prisma } from '../database/prisma';
 import { createOrder, getOrdersById } from '../services/orders';
 
 export const getOrders = async (req: Request, res: Response) => {
-  const { userId } = req.body;
+  const { userId } = req.params;
 
   if (!userId) {
     res.sendStatus(400);
