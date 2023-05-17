@@ -149,15 +149,31 @@ export const getProductDetailsById = async (req: Request, res: Response) => {
 };
 
 export const getProductsCount = async (req: Request, res: Response) => {
-  const { category = Category.ALL } = req.query;
+  const {
+    category = Category.ALL,
+    query = '',
+  } = req.query;
 
-  if (Array.isArray(category)) {
+  if (
+    Array.isArray(category) ||
+    Array.isArray(query)
+  ) {
     res.sendStatus(400);
 
     return;
   }
 
-  const count = await getCount(category as Category);
+  let queryFormatted = String(query);
+
+  while (queryFormatted.includes('-')) {
+    queryFormatted = queryFormatted.replace('-', ' ');
+  }
+
+  const count = await getCount(
+    category as Category,
+    queryFormatted,
+  );
+
   const productsCount = {
     count,
   };
