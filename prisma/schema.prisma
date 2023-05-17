@@ -90,3 +90,9 @@ model Order {
   totalPrice Int
   createdAt  DateTime @default(now())
 }
+
+model Favorites {
+  id         Int   @id @default(autoincrement())
+  userId     String
+  products   Json[]
+}
