@@ -103,25 +103,3 @@ export const getCount = (category: Category) => {
     where: where,
   });
 };
-
-export const getByName = (
-  namePart: string,
-  category: Category,
-) => {
-  const where = {};
-
-  if (category !== Category.ALL) {
-    Object.assign(where, { category });
-  }
-
-  Object.assign(where, {
-    name: {
-      contains: namePart,
-      mode: 'insensitive',
-    }
-  });
-
-  const products = prisma.product.findMany({ where });
-
-  return products;
-}
