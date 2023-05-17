@@ -5,6 +5,7 @@ import { getTabletById } from '../services/tablets';
 import {
   getAll,
   getById,
+  getByName,
   getCount,
   getNew,
   getRecommended,
@@ -155,3 +156,32 @@ export const getProductsCount = async (req: Request, res: Response) => {
 
   res.send(productsCount);
 };
+
+export const getProductsByName = async (req: Request, res: Response) => {
+  const {
+    query = '',
+    category = Category.ALL,
+  } = req.query;
+
+  if (
+    Array.isArray(query) ||
+    Array.isArray(category)
+  ) {
+    res.sendStatus(400);
+
+    return;
+  }
+
+  let namePart = query as string;
+
+  while (namePart.includes('-')) {
+    namePart = namePart.replace('-', ' ');
+  }
+
+  const products = await getByName(
+    namePart,
+    category as Category,
+  );
+
+  res.send(products);
+}

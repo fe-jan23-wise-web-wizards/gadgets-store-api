@@ -2,6 +2,7 @@ import express from 'express';
 import {
   getNewProducts,
   getProductById,
+  getProductsByName,
   getProductDetailsById,
   getProducts,
   getProductsCount,
@@ -12,6 +13,7 @@ import {
 export const router = express.Router();
 
 router.get('/', getProducts);
+router.get('/search', getProductsByName);
 router.get('/new', getNewProducts);
 router.get('/discount', getProductsWithDiscounts);
 router.get('/count', getProductsCount);
