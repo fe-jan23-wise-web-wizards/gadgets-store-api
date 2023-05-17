@@ -15,6 +15,7 @@ import { SortBy } from '../types/SortBy';
 
 export const getProducts = async (req: Request, res: Response) => {
   const {
+    query = '',
     page = 1,
     limit = 16,
     sort = SortBy.Default,
@@ -22,6 +23,7 @@ export const getProducts = async (req: Request, res: Response) => {
   } = req.query;
 
   if (
+    Array.isArray(query) ||
     Array.isArray(page) ||
     Array.isArray(limit) ||
     Array.isArray(sort) ||
@@ -32,7 +34,14 @@ export const getProducts = async (req: Request, res: Response) => {
     return;
   }
 
+  let queryFormatted = String(query);
+
+  while (queryFormatted.includes('-')) {
+    queryFormatted = queryFormatted.replace('-', ' ');
+  }
+
   const products = await getAll(
+    queryFormatted,
     Number(page),
     Number(limit),
     sort as SortBy,
