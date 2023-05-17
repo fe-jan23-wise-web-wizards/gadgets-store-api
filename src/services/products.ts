@@ -3,6 +3,7 @@ import { Category } from '../types/Category';
 import { SortBy } from '../types/SortBy';
 
 export const getAll = (
+  query: string,
   page: number,
   limit: number,
   sort: SortBy,
@@ -13,6 +14,15 @@ export const getAll = (
 
   if (category !== Category.ALL) {
     Object.assign(where, { category: category });
+  }
+
+  if (query) {
+    Object.assign(where, {
+      name: {
+        contains: query,
+        mode: 'insensitive',
+      }
+    });
   }
 
   switch (sort) {
