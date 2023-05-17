@@ -102,11 +102,20 @@ export const getById = (id: string) => {
   });
 };
 
-export const getCount = (category: Category) => {
+export const getCount = (category: Category, query: string) => {
   const where = {};
 
   if (category !== Category.ALL) {
     Object.assign(where, { category: category });
+  }
+
+  if (query) {
+    Object.assign(where, {
+      name: {
+        contains: query,
+        mode: 'insensitive',
+      }
+    });
   }
 
   return prisma.product.count({
