@@ -95,3 +95,8 @@ model Favorites {
   userId     String @id @unique
   products   Json[]
 }
+
+model Cart {
+  userId     String @id @unique
+  products   Json[]
+}
