@@ -5,6 +5,9 @@ export const getOrdersById = (userId: string) => {
     where: {
       userId: userId,
     },
+    orderBy: {
+      createdAt: 'desc',
+    }
   });
 };
 
