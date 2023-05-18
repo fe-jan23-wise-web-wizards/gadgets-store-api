@@ -1,5 +1,5 @@
-import {createCart, getCartById, updateCart} from "../services/cart";
-import {Request, Response} from "express";
+import { createCart, getCartById, updateCart } from "../services/cart";
+import { Request, Response } from "express";
 
 export const getCart = async (req: Request, res: Response) => {
     const {userId} = req.params;
@@ -15,37 +15,26 @@ export const getCart = async (req: Request, res: Response) => {
 };
 
 export const postCart = async (req: Request, res: Response) => {
-    const {userId} = req.params;
-    const {products} = req.body;
-    const isCartExist = await getCartById(userId);
-
-    if (!userId || !Array.isArray(products) || isCartExist) {
-         res
-        .status(400)
-        .send('Cart record with this userId already exists or data is invalid!');
-
-        return;
-    }
-
-    const newCart = await createCart(userId, products);
-
-    res.status(201).send(newCart);
-};
-
-export const patchCart = async (req: Request, res: Response) => {
-    const {userId} = req.params;
-    const {products} = req.body;
+    const { userId, products } = req.body;
     const isCartExists = await getCartById(userId);
 
-    if (!userId || !Array.isArray(products) || !isCartExists) {
-        res
-        .status(400)
-        .send('Cart with provided userId does not exist! Send post request first and try again!');
+    if (!userId || Array.isArray(products)) {
+         res.status(400).send('Please provide correct data');
 
         return;
     }
 
-    const updatedCart = await updateCart(userId, products);
+    if (isCartExists) {
+        const updatedCart = await updateCart(userId, products);
 
-    res.status(201).send(updatedCart);
+        res.status(201).send(updatedCart);
+
+        return;
+    } else {
+        const newCart = await createCart(userId, products);
+
+        res.status(201).send(newCart);
+
+        return;
+    }
 };

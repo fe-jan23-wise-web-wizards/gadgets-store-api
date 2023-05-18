@@ -29,9 +29,13 @@ export const postFavorite = async (req: Request, res: Response) => {
         const result = await updateFavorite(userId, products);
 
         res.status(201).send(result);
+
+        return;
     } else {
         const result = await createFavorite(userId, products);
 
         res.status(201).send(result);
+
+        return;
     }
 };
