@@ -1,40 +1,38 @@
-import { createCart, getCartById, updateCart } from "../services/cart";
-import { Request, Response } from "express";
+import { Request, Response } from 'express';
+import { createCart, getCartById, updateCart } from '../services/cart';
 
 export const getCart = async (req: Request, res: Response) => {
-    const {userId} = req.params;
-    const cart = await getCartById(userId);
+  const { userId } = req.params;
+  const cart = await getCartById(userId);
 
-    if (!cart) {
-        res.status(404).send('Cart not found');
+  if (!cart) {
+    res.status(404).send('Cart not found');
 
-        return;
-    }
+    return;
+  }
 
-    res.status(200).send(cart);
+  res.status(200).send(cart);
 };
 
 export const postCart = async (req: Request, res: Response) => {
-    const { userId, products } = req.body;
-    const isCartExists = await getCartById(userId);
+  const { userId, products } = req.body;
+  const isCartExists = await getCartById(userId);
 
-    if (!userId || Array.isArray(products)) {
-         res.status(400).send('Please provide correct data');
+  if (!userId || Array.isArray(products)) {
+    res.status(400).send('Please provide correct data');
 
-        return;
-    }
+    return;
+  }
 
-    if (isCartExists) {
-        const updatedCart = await updateCart(userId, products);
+  if (isCartExists) {
+    const updatedCart = await updateCart(userId, products);
 
-        res.status(201).send(updatedCart);
+    res.status(201).send(updatedCart);
 
-        return;
-    } else {
-        const newCart = await createCart(userId, products);
+    return;
+  }
 
-        res.status(201).send(newCart);
+  const newCart = await createCart(userId, products);
 
-        return;
-    }
+  res.status(201).send(newCart);
 };

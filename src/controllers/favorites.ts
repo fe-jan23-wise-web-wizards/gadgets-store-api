@@ -1,41 +1,42 @@
-import {Request, Response} from "express";
-import {getFavoritesById, createFavorite, updateFavorite} from "../services/favorites";
+import { Request, Response } from 'express';
+import {
+  createFavorite,
+  getFavoritesById,
+  updateFavorite,
+} from '../services/favorites';
 
 export const getFavorites = async (req: Request, res: Response) => {
-    const {userId} = req.params;
+  const { userId } = req.params;
 
-    const favorites = await getFavoritesById(userId);
+  const favorites = await getFavoritesById(userId);
 
-    if (!favorites) {
-        res.status(404).send('Favorites not found');
+  if (!favorites) {
+    res.status(404).send('Favorites not found');
 
-        return;
-    }
+    return;
+  }
 
-    res.send(favorites);
+  res.send(favorites);
 };
 
 export const postFavorite = async (req: Request, res: Response) => {
-    const { userId, products } = req.body;
-    const isFavoriteExists = await getFavoritesById(userId);
+  const { userId, products } = req.body;
+  const isFavoriteExists = await getFavoritesById(userId);
 
-    if (!userId || !Array.isArray(products)) {
-        res.status(400).send('Provide a valid data!');
+  if (!userId || !Array.isArray(products)) {
+    res.status(400).send('Provide a valid data!');
 
-        return;
-    }
+    return;
+  }
 
-    if (isFavoriteExists) {
-        const result = await updateFavorite(userId, products);
+  if (isFavoriteExists) {
+    const result = await updateFavorite(userId, products);
 
-        res.status(201).send(result);
+    res.status(201).send(result);
 
-        return;
-    } else {
-        const result = await createFavorite(userId, products);
+    return;
+  }
+  const result = await createFavorite(userId, products);
 
-        res.status(201).send(result);
-
-        return;
-    }
+  res.status(201).send(result);
 };
