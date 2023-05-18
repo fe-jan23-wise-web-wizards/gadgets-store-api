@@ -92,7 +92,6 @@ model Order {
 }
 
 model Favorites {
-  id         Int   @id @default(autoincrement())
-  userId     String
+  userId     String @id @unique
   products   Json[]
 }

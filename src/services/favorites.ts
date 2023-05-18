@@ -1,7 +1,7 @@
 import {prisma} from "../database/prisma";
 
 export const getFavoritesById = (userId: string) => {
-    return prisma.favorites.findMany({
+    return prisma.favorites.findUnique({
         where: {
             userId: userId,
         },
@@ -17,10 +17,10 @@ export const createFavorite = (userId: string, products: string[]) => {
     });
 };
 
-export const updateFavorite = async (id: number, products: string[]) => {
+export const updateFavorite = (userId: string, products: string[]) => {
     return prisma.favorites.update({
         where: {
-            id: id,
+            userId: userId,
         },
         data: {
             products: products,

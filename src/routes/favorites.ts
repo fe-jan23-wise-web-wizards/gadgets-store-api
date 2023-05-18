@@ -4,5 +4,5 @@ import {getFavorites, postFavorite, patchFavorite} from "../controllers/favorite
 export const router = express.Router();
 
 router.get('/:userId', getFavorites);
-router.post('/new', postFavorite);
-router.patch('/update', patchFavorite);
+router.post('/', postFavorite);
+router.patch('/:userId', patchFavorite);

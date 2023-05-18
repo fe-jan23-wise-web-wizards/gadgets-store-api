@@ -4,8 +4,6 @@ import {getFavoritesById, createFavorite, updateFavorite} from "../services/favo
 export const getFavorites = async (req: Request, res: Response) => {
     const {userId} = req.params;
 
-    console.log(userId);
-
     const favorites = await getFavoritesById(userId);
 
     res.send(favorites);
@@ -26,15 +24,16 @@ export const postFavorite = async (req: Request, res: Response) => {
 };
 
 export const patchFavorite = async (req: Request, res: Response) => {
-    const {id, products} = req.body;
+    const {userId} = req.params;
+    const {products} = req.body;
 
-    if (!id || !Array.isArray(products)) {
+    if (!userId || !Array.isArray(products)) {
         res.sendStatus(400);
 
         return;
     }
 
-    const result = await updateFavorite(id, products);
+    const result = await updateFavorite(userId, products);
 
     res.status(201).send(result);
 };
