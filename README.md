@@ -22,12 +22,10 @@ Use this endpoint to get all the products. You can use the following search para
 - **category** to specify the category of products;
 
 2. `GET /products/new` <br/>
-Use this endpoint to get the newest products. You can use the following search parameters to make some filtering & sorting:
-- **limit** to specify the number of products to return;
+Use this endpoint to get the newest products. You can use **limit** search parameter to specify the number of products to return.
 
 3. `GET /products/discount` <br/>
-Use this endpoint to get all the products sorted by discount in descending order. You can use the following search parameters to make some filtering & sorting:
-- **limit** to specify the number of products to return;
+Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.
 
 4. `GET /products/count` <br/>
 Use this endpoint to get the products quantity. You can use the following search parameters to make some filtering & sorting:
