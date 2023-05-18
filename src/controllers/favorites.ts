@@ -20,7 +20,7 @@ export const postFavorite = async (req: Request, res: Response) => {
     const favorites = await getFavoritesById(userId);
 
     if (!userId || !Array.isArray(products) || favorites) {
-        res.status(400).send('Provide valid userId, products and make sure that record does not exist in database');
+        res.status(400).send('Favorites record with this userId already exists!');
 
         return;
     }
@@ -36,7 +36,7 @@ export const patchFavorite = async (req: Request, res: Response) => {
     const favorites = await getFavoritesById(userId);
 
     if (!userId || !Array.isArray(products) || !favorites) {
-        res.status(400).send('Provide valid userId, products and make sure that record exists in database')
+        res.status(400).send('Favorites with provided userId does not exist! Send post request first and try again!')
 
         return;
     }
