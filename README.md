@@ -59,6 +59,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `GET /products/new` - Use this endpoint to get the newest products. You can use **limit** search parameter to specify the number of products to return.
 
@@ -100,6 +101,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `GET /products/discount` - Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.`
 
@@ -127,6 +129,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `GET /products/count` - Use this endpoint to get the products quantity. You can use the following search parameters to make some filtering & sorting:
 - **query** to get products that contain the substring in their names;
@@ -143,6 +146,7 @@ Response example:
   count: 124
 }
 ```
+<br/>
 
 `GET /products/:id` - Use this endpoint to get the product by id.
 
@@ -168,6 +172,7 @@ Response example:
   image: "img/tablets/apple-ipad-pro-11-2021/silver/00.webp"
 }
 ```
+<br/>
 
 `GET /products/:id/details` - Use this endpoint to get the product's details.
 
@@ -236,6 +241,7 @@ Response example:
   ]	
 }
 ```
+<br/>
 
 `GET /products/:id/recommended` - Use this endpoint to get the recommendations for the product.
 
@@ -277,6 +283,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `GET /orders/:userId` - Use this endpoint to get all the orders by user id.
 
@@ -302,6 +309,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `POST /orders/new` - Use this endpoint to create new order.
 
@@ -339,6 +347,7 @@ Response example:
   }
 ]
 ```
+<br/>
 
 `GET /static` - Use this endpoint to get an image.
 
