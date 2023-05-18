@@ -1,6 +1,8 @@
+import shuffle from 'lodash.shuffle';
 import { prisma } from '../database/prisma';
 import { Category } from '../types/Category';
 import { SortBy } from '../types/SortBy';
+import { Product } from '@prisma/client';
 
 export const getAll = (
   query: string,
@@ -80,18 +82,22 @@ export const getWithDiscount = async (limit: number) => {
 };
 
 export const getRecommended = async (id: string) => {
-  const productsCount = await prisma.product.count();
-  const skip = Math.floor(Math.random() * productsCount);
+  const idSplit = id.split('-');
+  const namespace = idSplit.slice(0, idSplit.length - 2).join('-');
 
-  return prisma.product.findMany({
+  const products = await prisma.product.findMany({
     where: {
       NOT: {
-        itemId: id,
+        itemId: {
+          contains: namespace,
+        },
       },
     },
+    skip: 1,
     take: 12,
-    skip: skip,
   });
+
+  return shuffle<Product>(products);
 };
 
 export const getById = (id: string) => {
