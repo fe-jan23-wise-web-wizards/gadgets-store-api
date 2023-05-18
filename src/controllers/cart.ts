@@ -16,23 +16,24 @@ export const getCart = async (req: Request, res: Response) => {
 
 export const postCart = async (req: Request, res: Response) => {
   const { userId, products } = req.body;
-  const isCartExists = await getCartById(userId);
 
-  if (!userId || Array.isArray(products)) {
+  if (!userId || !Array.isArray(JSON.parse(products))) {
     res.status(400).send('Please provide correct data');
 
     return;
   }
 
+  const isCartExists = await getCartById(userId);
+
   if (isCartExists) {
-    const updatedCart = await updateCart(userId, products);
+    const updatedCart = await updateCart(userId, JSON.stringify(products));
 
     res.status(201).send(updatedCart);
 
     return;
   }
 
-  const newCart = await createCart(userId, products);
+  const newCart = await createCart(userId, JSON.stringify(products));
 
   res.status(201).send(newCart);
 };

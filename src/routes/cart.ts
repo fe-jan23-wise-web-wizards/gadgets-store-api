@@ -3,5 +3,5 @@ import express from "express";
 
 export const router = express.Router();
 
-router.get('/:userId', getCart);
 router.post('/', postCart);
+router.get('/:userId', getCart);

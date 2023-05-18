@@ -7,7 +7,6 @@ import {
 
 export const getFavorites = async (req: Request, res: Response) => {
   const { userId } = req.params;
-
   const favorites = await getFavoritesById(userId);
 
   if (!favorites) {
@@ -21,13 +20,14 @@ export const getFavorites = async (req: Request, res: Response) => {
 
 export const postFavorite = async (req: Request, res: Response) => {
   const { userId, products } = req.body;
-  const isFavoriteExists = await getFavoritesById(userId);
 
   if (!userId || !Array.isArray(products)) {
     res.status(400).send('Provide a valid data!');
 
     return;
   }
+
+  const isFavoriteExists = await getFavoritesById(userId);
 
   if (isFavoriteExists) {
     const result = await updateFavorite(userId, products);
