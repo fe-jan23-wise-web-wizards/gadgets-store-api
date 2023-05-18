@@ -17,10 +17,10 @@ export const getFavorites = async (req: Request, res: Response) => {
 
 export const postFavorite = async (req: Request, res: Response) => {
     const {userId, products} = req.body;
-    const favorites = await getFavoritesById(userId);
+    const isFavoriteExists = await getFavoritesById(userId);
 
-    if (!userId || !Array.isArray(products) || favorites) {
-        res.status(400).send('Favorites record with this userId already exists!');
+    if (!userId || !Array.isArray(products) || isFavoriteExists) {
+        res.status(400).send('Favorites record with this userId already exists or data is invalid!');
 
         return;
     }
