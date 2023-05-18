@@ -103,7 +103,7 @@ Response example:
 ```
 <br/>
 
-`GET /products/discount` - Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.`
+`GET /products/discount` - Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.
 
 Request example:
 ```sh
@@ -315,7 +315,7 @@ Response example:
 
 Request example:
 ```sh
-GET /orders/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+POST /orders/new
 ```
 
 Request body:
