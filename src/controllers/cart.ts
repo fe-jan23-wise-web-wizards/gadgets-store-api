@@ -26,14 +26,14 @@ export const postCart = async (req: Request, res: Response) => {
   const isCartExists = await getCartById(userId);
 
   if (isCartExists) {
-    const updatedCart = await updateCart(userId, JSON.stringify(products));
+    const updatedCart = await updateCart(userId, products);
 
     res.status(201).send(updatedCart);
 
     return;
   }
 
-  const newCart = await createCart(userId, JSON.stringify(products));
+  const newCart = await createCart(userId, products);
 
   res.status(201).send(newCart);
 };
