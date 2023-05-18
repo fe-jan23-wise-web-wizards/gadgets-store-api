@@ -16,32 +16,22 @@ export const getFavorites = async (req: Request, res: Response) => {
 };
 
 export const postFavorite = async (req: Request, res: Response) => {
-    const {userId, products} = req.body;
+    const { userId, products } = req.body;
     const isFavoriteExists = await getFavoritesById(userId);
 
-    if (!userId || !Array.isArray(products) || isFavoriteExists) {
-        res.status(400).send('Favorites record with this userId already exists or data is invalid!');
+    if (!userId || !Array.isArray(products)) {
+        res.status(400).send('Provide a valid data!');
 
         return;
     }
 
-    const result = await createFavorite(userId, products);
+    if (isFavoriteExists) {
+        const result = await updateFavorite(userId, products);
 
-    res.status(201).send(result);
-};
+        res.status(201).send(result);
+    } else {
+        const result = await createFavorite(userId, products);
 
-export const patchFavorite = async (req: Request, res: Response) => {
-    const {userId} = req.params;
-    const {products} = req.body;
-    const favorites = await getFavoritesById(userId);
-
-    if (!userId || !Array.isArray(products) || !favorites) {
-        res.status(400).send('Favorites with provided userId does not exist! Send post request first and try again!')
-
-        return;
+        res.status(201).send(result);
     }
-
-    const result = await updateFavorite(userId, products);
-
-    res.status(201).send(result);
 };
