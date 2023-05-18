@@ -13,8 +13,7 @@
 
 ### Endpoints
 
-`GET /products` <br/>
-Use this endpoint to get all the products. You can use the following search parameters to make some filtering & sorting:
+`GET /products` - Use this endpoint to get all the products. You can use the following search parameters to make some filtering & sorting:
 - **query** to get products that contain the substring in their names;
 - **page** to get products of specific page (for pagination);
 - **limit** to specify the number of products to return;
@@ -61,8 +60,7 @@ Response example:
 ]
 ```
 
-`GET /products/new` <br/>
-Use this endpoint to get the newest products. You can use **limit** search parameter to specify the number of products to return.
+`GET /products/new` - Use this endpoint to get the newest products. You can use **limit** search parameter to specify the number of products to return.
 
 Request example:
 ```sh
@@ -103,8 +101,7 @@ Response example:
 ]
 ```
 
-`GET /products/discount` <br/>
-Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.`
+`GET /products/discount` - Use this endpoint to get all the products sorted by discount in descending order. You can use **limit** search parameter to specify the number of products to return.`
 
 Request example:
 ```sh
@@ -131,8 +128,7 @@ Response example:
 ]
 ```
 
-`GET /products/count` <br/>
-Use this endpoint to get the products quantity. You can use the following search parameters to make some filtering & sorting:
+`GET /products/count` - Use this endpoint to get the products quantity. You can use the following search parameters to make some filtering & sorting:
 - **query** to get products that contain the substring in their names;
 - **category** to specify the category of products;
 
@@ -148,8 +144,7 @@ Response example:
 }
 ```
 
-`GET /products/:id` <br/>
-Use this endpoint to get the product by id.
+`GET /products/:id` - Use this endpoint to get the product by id.
 
 Request example:
 ```sh
@@ -174,8 +169,7 @@ Response example:
 }
 ```
 
-`GET /products/:id/details` <br/>
-Use this endpoint to get the product's details.
+`GET /products/:id/details` - Use this endpoint to get the product's details.
 
 Request example:
 ```sh
@@ -243,8 +237,7 @@ Response example:
 }
 ```
 
-`GET /products/:id/recommended` <br/>
-Use this endpoint to get the recommendations for the product.
+`GET /products/:id/recommended` - Use this endpoint to get the recommendations for the product.
 
 Request example:
 ```sh
@@ -285,8 +278,7 @@ Response example:
 ]
 ```
 
-`GET /orders/:userId` <br/>
-Use this endpoint to get all the orders by user id.
+`GET /orders/:userId` - Use this endpoint to get all the orders by user id.
 
 Request example:
 ```sh
@@ -311,8 +303,7 @@ Response example:
 ]
 ```
 
-`POST /orders/new` <br/>
-Use this endpoint to create new order.
+`POST /orders/new` - Use this endpoint to create new order.
 
 Request example:
 ```sh
@@ -349,8 +340,7 @@ Response example:
 ]
 ```
 
-`GET /static` <br/>
-Use this endpoint to get an image.
+`GET /static` - Use this endpoint to get an image.
 
 Request example:
 ```sh
