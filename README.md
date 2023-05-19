@@ -349,6 +349,122 @@ Response example:
 ```
 <br/>
 
+`GET /favorites/:userId` - Use this endpoint to get all the favorites by user id.
+
+Request example:
+```sh
+GET /favorites/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+```
+
+Response example:
+```sh
+{
+    "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+    "products": [
+      "apple-iphone-xs-max-256gb-gold",
+      "apple-iphone-11-pro-max-256gb-silver",
+      "apple-iphone-11-pro-max-512gb-midnight-green"
+    ],
+}
+```
+<br/>
+
+`POST /favorites` - Use this endpoint to add new favorite or update it if it already exists.
+
+Request example:
+```sh
+POST /favorites
+```
+
+Request body:
+```sh
+{
+  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "products": [
+    "apple-iphone-xs-max-256gb-gold",
+    "apple-iphone-11-pro-max-256gb-silver",
+    "apple-iphone-11-pro-max-512gb-midnight-green"
+  ]
+}
+```
+
+Response example:
+```sh
+{
+  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "products": [
+    "apple-iphone-xs-max-256gb-gold",
+    "apple-iphone-11-pro-max-256gb-silver",
+    "apple-iphone-11-pro-max-512gb-midnight-green"
+  ]
+}
+```
+
+<br/>
+
+`GET /cart/:userId` - Use this endpoint to get all the products in the cart by user id.
+
+Request example:
+```sh
+GET /cart/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+```
+
+Response example:
+```sh
+{
+  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "products": [
+    {
+      "id": "apple-iphone-xs-max-256gb-gold",
+      "price": 897,
+      "quantity": 3,
+    },
+    {
+      "id": "apple-iphone-11-pro-max-256gb-silver",
+      "price": 1680,
+      "quantity": 1,
+    }
+  ]
+}
+```
+<br/>
+
+`POST /cart` - Use this endpoint to add new product to the cart or update it if it already exists.
+
+Request example:
+```sh
+POST /cart
+```
+
+Request body:
+```sh
+{
+  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "products": [
+    {
+      "id": "apple-iphone-xs-max-256gb-gold",
+      "price": 897,
+      "quantity": 3,
+    }
+  ]
+}
+```
+
+Response example:
+```sh
+{
+  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "products": [
+    {
+      "id": "apple-iphone-xs-max-256gb-gold",
+      "price": 897,
+      "quantity": 3,
+    }
+  ]
+}
+```
+<br/>
+
 `GET /static` - Use this endpoint to get an image.
 
 Request example:
