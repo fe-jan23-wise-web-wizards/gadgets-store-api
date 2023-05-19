@@ -5,11 +5,11 @@
 `https://gadgets-store-api.up.railway.app`
 
 ## Endpoints
-- [/products](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#products)
-- [/orders](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#orders)
-- [/favorites](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#favorites)
-- [/cart](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#cart)
-- [/static](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#static)
+- [/products](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api#products)
+- [/orders](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api#orders)
+- [/favorites](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api#favorites)
+- [/cart](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api#cart)
+- [/static](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api#static)
 
 ## Docs
 
