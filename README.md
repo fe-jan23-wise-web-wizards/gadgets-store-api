@@ -1,17 +1,19 @@
-# API for Gadgets store
+# API for [Gadgets Store](https://github.com/fe-jan23-wise-web-wizards/gadgets-store)
 
-## Installation
-1. create your own `.env` file based on `.env.example` file.
-2. Run `npm install` in your terminal to download all the packages and dependencies.
-3. `npm run dev` in your terminal to start development server.
-<br/>
+## Base URL
 
-## API usage
+`https://gadgets-store-api.up.railway.app`
 
-### Base URL
-`gadgets-store-api.up.railway.app`
+## Endpoints
+- [/products](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#products)
+- [/orders](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#orders)
+- [/favorites](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#favorites)
+- [/cart](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#cart)
+- [/static](https://github.com/fe-jan23-wise-web-wizards/gadgets-store-api/edit/main/README.md#static)
 
-### Endpoints
+## Docs
+
+### /products
 
 `GET /products` - Use this endpoint to get all the products. You can use the following search parameters to make some filtering & sorting:
 - **query** to get products that contain the substring in their names;
@@ -285,11 +287,14 @@ Response example:
 ```
 <br/>
 
+
+### /orders
+
 `GET /orders/:userId` - Use this endpoint to get all the orders by user id.
 
 Request example:
 ```sh
-GET /orders/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+GET /orders/some-user-id
 ```
 
 Response example:
@@ -297,7 +302,7 @@ Response example:
 [
   {
     "id": 1
-    "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw"
+    "userId": "some-user-id"
     "products": [
       {
         "quantity": 5,
@@ -321,7 +326,7 @@ POST /orders/new
 Request body:
 ```sh
   {
-    "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+    "userId": "some-user-id",
       "products": [
         {
           "quantity": 1,
@@ -337,7 +342,7 @@ Response example:
 [
   {
     "id": 28,
-    "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+    "userId": "some-user-id",
     "products": [{
         "quantity": 1,
         "productId": "apple-iphone-xs-max-256gb-gold"
@@ -349,17 +354,19 @@ Response example:
 ```
 <br/>
 
-`GET /favorites/:userId` - Use this endpoint to get all the favorites by user id.
+### /favorites
+
+`GET /favorites/:userId` - Use this endpoint to get favorites of specific user.
 
 Request example:
 ```sh
-GET /favorites/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+GET /favorites/some-user-id
 ```
 
 Response example:
 ```sh
 {
-    "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+    "userId": "some-user-id",
     "products": [
       "apple-iphone-xs-max-256gb-gold",
       "apple-iphone-11-pro-max-256gb-silver",
@@ -379,7 +386,7 @@ POST /favorites
 Request body:
 ```sh
 {
-  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "userId": "some-user-id",
   "products": [
     "apple-iphone-xs-max-256gb-gold",
     "apple-iphone-11-pro-max-256gb-silver",
@@ -391,7 +398,7 @@ Request body:
 Response example:
 ```sh
 {
-  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "userId": "some-user-id",
   "products": [
     "apple-iphone-xs-max-256gb-gold",
     "apple-iphone-11-pro-max-256gb-silver",
@@ -402,17 +409,19 @@ Response example:
 
 <br/>
 
+### /cart
+
 `GET /cart/:userId` - Use this endpoint to get all the products in the cart by user id.
 
 Request example:
 ```sh
-GET /cart/user_2Prp5KEedMmR50ZYaaJBzTKVOKw
+GET /cart/some-user-id
 ```
 
 Response example:
 ```sh
 {
-  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "userId": "some-user-id",
   "products": [
     {
       "id": "apple-iphone-xs-max-256gb-gold",
@@ -439,7 +448,7 @@ POST /cart
 Request body:
 ```sh
 {
-  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "userId": "some-user-id",
   "products": [
     {
       "id": "apple-iphone-xs-max-256gb-gold",
@@ -453,7 +462,7 @@ Request body:
 Response example:
 ```sh
 {
-  "userId": "user_2Prp5KEedMmR50ZYaaJBzTKVOKw",
+  "userId": "some-user-id",
   "products": [
     {
       "id": "apple-iphone-xs-max-256gb-gold",
@@ -465,7 +474,9 @@ Response example:
 ```
 <br/>
 
-`GET /static` - Use this endpoint to get an image.
+### /static
+
+`GET /static` - Use this endpoint to get images.
 
 Request example:
 ```sh
@@ -475,3 +486,9 @@ GET /static/img/banners/banner-1.webp
 Response example: <br/>
 ![Banner](https://gadgets-store-api.up.railway.app/static/img/banners/banner-1.webp)
 
+
+## How to run locally
+1. Clone or fork the repository.
+1. Create your own `.env` file based on `.env.example` file.
+2. Run `npm install` in your terminal to download all the packages and dependencies.
+3. `npm run dev` in your terminal to start development server.
